@@ -1,0 +1,2500 @@
+Therapy, 72, Ava Winchester, Asthma
+Surgery, 20, Elijah Jones, Pneumonia
+Cardiology, 38, Jack Rodriguez, Diabetes
+Neurology, 51, Dean Johnson, Heart Failure
+Surgery, 69, Jane Morgan, Heart Failure
+Pediatrics, 78, Dean Winchester, Flu
+Cardiology, 28, Sophia Smith, Pneumonia
+Cardiology, 61, Liam Brown, Pneumonia
+Therapy, 23, Henry Martinez, Pneumonia
+Therapy, 1, Oliver Williams, Asthma
+Surgery, 66, Sophia Doe, Asthma
+Cardiology, 50, Liam Miller, Heart Failure
+Surgery, 63, Olivia Jones, Pneumonia
+Surgery, 13, Elijah Davis, Pneumonia
+Cardiology, 6, Oliver Miller, Diabetes
+Pediatrics, 1, Liam Morgan, Heart Failure
+Neurology, 30, Jane Davis, Asthma
+Therapy, 21, Dean Winchester, Pneumonia
+Surgery, 77, Jane Davis, Flu
+Therapy, 78, Dean Davis, Heart Failure
+Surgery, 20, Ava Martinez, Heart Failure
+Therapy, 86, Oliver Smith, Heart Failure
+Therapy, 85, Elijah Davis, Heart Failure
+Cardiology, 3, Noah Johnson, Heart Failure
+Therapy, 24, Liam Winchester, Asthma
+Neurology, 24, Ava Johnson, Asthma
+Neurology, 67, Elijah Rodriguez, Flu
+Neurology, 44, Sam Garcia, Asthma
+Pediatrics, 23, Sam Winchester, Flu
+Surgery, 45, Sophia Brown, Flu
+Cardiology, 31, Noah Jones, Flu
+Therapy, 43, Noah Morgan, Asthma
+Surgery, 31, Anthony Williams, Heart Failure
+Surgery, 85, Violet Martinez, Heart Failure
+Cardiology, 7, Noah Jones, Heart Failure
+Surgery, 3, Oliver Garcia, Diabetes
+Pediatrics, 41, Emma Brown, Flu
+Pediatrics, 42, Oliver Doe, Heart Failure
+Neurology, 36, Jack Davis, Asthma
+Pediatrics, 14, Sam Winchester, Asthma
+Cardiology, 26, Olivia Jones, Heart Failure
+Cardiology, 90, Sophia Williams, Asthma
+Neurology, 30, Anthony Brown, Pneumonia
+Surgery, 15, Elijah Rodriguez, Heart Failure
+Cardiology, 23, Elijah Brown, Asthma
+Surgery, 53, James Smith, Diabetes
+Therapy, 20, Ava Doe, Diabetes
+Therapy, 6, Anthony Williams, Pneumonia
+Neurology, 27, Noah Winchester, Diabetes
+Cardiology, 98, Violet Morgan, Pneumonia
+Neurology, 43, Noah Williams, Flu
+Therapy, 6, Noah Smith, Asthma
+Cardiology, 14, Olivia Williams, Asthma
+Neurology, 25, Noah Rodriguez, Asthma
+Pediatrics, 10, Sam Smith, Diabetes
+Neurology, 72, Noah Rodriguez, Asthma
+Neurology, 56, Dean Doe, Heart Failure
+Cardiology, 79, Henry Johnson, Asthma
+Surgery, 100, Noah Morgan, Asthma
+Cardiology, 9, Sam Miller, Diabetes
+Neurology, 80, Violet Rodriguez, Diabetes
+Cardiology, 92, Charlotte Smith, Asthma
+Pediatrics, 96, Elijah Martinez, Flu
+Neurology, 86, Anthony Rodriguez, Heart Failure
+Pediatrics, 32, Emma Davis, Flu
+Neurology, 78, Jane Davis, Pneumonia
+Cardiology, 15, James Smith, Flu
+Neurology, 19, Henry Winchester, Pneumonia
+Surgery, 24, Olivia Garcia, Pneumonia
+Neurology, 89, James Davis, Heart Failure
+Cardiology, 60, Emma Doe, Asthma
+Pediatrics, 77, Olivia Davis, Flu
+Cardiology, 33, Anthony Morgan, Asthma
+Pediatrics, 30, Ava Rodriguez, Diabetes
+Cardiology, 75, Violet Williams, Asthma
+Cardiology, 82, Jack Winchester, Heart Failure
+Therapy, 36, Sophia Doe, Flu
+Surgery, 93, Liam Jones, Asthma
+Surgery, 82, Liam Morgan, Flu
+Surgery, 25, Elijah Smith, Diabetes
+Cardiology, 59, Jane Williams, Asthma
+Therapy, 55, Charlotte Williams, Pneumonia
+Therapy, 96, Charlotte Smith, Asthma
+Pediatrics, 35, Ava Davis, Diabetes
+Cardiology, 99, Sam Williams, Diabetes
+Neurology, 92, James Garcia, Pneumonia
+Pediatrics, 24, Charlotte Rodriguez, Diabetes
+Neurology, 58, Liam Garcia, Flu
+Surgery, 24, Olivia Martinez, Diabetes
+Pediatrics, 30, Henry Brown, Pneumonia
+Cardiology, 18, Jane Morgan, Heart Failure
+Pediatrics, 95, James Garcia, Pneumonia
+Cardiology, 98, Sam Davis, Asthma
+Surgery, 21, Ava Smith, Heart Failure
+Neurology, 77, Olivia Miller, Asthma
+Cardiology, 50, Henry Martinez, Pneumonia
+Therapy, 94, Elijah Martinez, Pneumonia
+Therapy, 93, Charlotte Rodriguez, Heart Failure
+Surgery, 29, Emma Morgan, Asthma
+Pediatrics, 66, Jack Garcia, Pneumonia
+Pediatrics, 57, Sophia Jones, Heart Failure
+Surgery, 10, Violet Martinez, Diabetes
+Therapy, 78, Henry Rodriguez, Heart Failure
+Pediatrics, 42, Elijah Winchester, Heart Failure
+Therapy, 86, Violet Johnson, Diabetes
+Surgery, 5, Violet Brown, Diabetes
+Cardiology, 74, Violet Miller, Heart Failure
+Therapy, 37, Noah Brown, Diabetes
+Cardiology, 45, Charlotte Martinez, Pneumonia
+Pediatrics, 77, Emma Rodriguez, Flu
+Cardiology, 73, Sophia Doe, Pneumonia
+Therapy, 63, Oliver Johnson, Flu
+Cardiology, 39, Jane Johnson, Diabetes
+Surgery, 85, Jane Johnson, Diabetes
+Therapy, 67, Elijah Martinez, Heart Failure
+Neurology, 17, Noah Williams, Asthma
+Therapy, 12, Sophia Garcia, Asthma
+Pediatrics, 55, Violet Martinez, Heart Failure
+Therapy, 13, Noah Johnson, Asthma
+Pediatrics, 71, Jack Smith, Heart Failure
+Neurology, 13, Liam Jones, Asthma
+Pediatrics, 83, Jane Doe, Heart Failure
+Pediatrics, 39, Elijah Miller, Asthma
+Surgery, 58, James Smith, Asthma
+Therapy, 79, Liam Doe, Diabetes
+Therapy, 37, James Brown, Heart Failure
+Surgery, 49, Anthony Smith, Asthma
+Surgery, 12, Jack Rodriguez, Flu
+Cardiology, 81, Violet Johnson, Asthma
+Pediatrics, 56, Charlotte Rodriguez, Heart Failure
+Pediatrics, 45, Ava Brown, Pneumonia
+Pediatrics, 39, Charlotte Garcia, Diabetes
+Therapy, 13, Emma Davis, Diabetes
+Neurology, 77, Elijah Morgan, Heart Failure
+Surgery, 43, Olivia Williams, Heart Failure
+Cardiology, 43, Ava Rodriguez, Heart Failure
+Pediatrics, 21, Emma Jones, Pneumonia
+Pediatrics, 41, James Winchester, Diabetes
+Therapy, 40, Henry Brown, Diabetes
+Therapy, 58, Henry Johnson, Diabetes
+Therapy, 84, Olivia Winchester, Heart Failure
+Pediatrics, 49, Henry Johnson, Flu
+Cardiology, 61, Henry Davis, Heart Failure
+Therapy, 67, Emma Jones, Diabetes
+Surgery, 90, James Martinez, Heart Failure
+Neurology, 39, Jack Davis, Flu
+Neurology, 12, James Brown, Heart Failure
+Cardiology, 51, Jack Doe, Heart Failure
+Neurology, 34, Oliver Rodriguez, Heart Failure
+Pediatrics, 83, Henry Rodriguez, Heart Failure
+Pediatrics, 79, Liam Brown, Heart Failure
+Pediatrics, 31, Olivia Jones, Flu
+Neurology, 58, Noah Miller, Flu
+Cardiology, 37, Olivia Davis, Flu
+Cardiology, 50, Olivia Brown, Flu
+Pediatrics, 100, Elijah Davis, Flu
+Therapy, 87, Jane Garcia, Flu
+Surgery, 17, Charlotte Johnson, Asthma
+Surgery, 56, Emma Smith, Diabetes
+Neurology, 37, Jack Rodriguez, Heart Failure
+Pediatrics, 19, Elijah Doe, Asthma
+Surgery, 12, James Williams, Flu
+Therapy, 90, Sophia Smith, Diabetes
+Cardiology, 29, Elijah Williams, Heart Failure
+Neurology, 31, Dean Davis, Flu
+Surgery, 56, Henry Rodriguez, Pneumonia
+Pediatrics, 41, Sam Rodriguez, Pneumonia
+Surgery, 87, Noah Davis, Asthma
+Surgery, 46, Ava Miller, Asthma
+Neurology, 75, Henry Martinez, Flu
+Cardiology, 87, Jack Smith, Flu
+Surgery, 61, Jane Williams, Asthma
+Pediatrics, 18, Ava Doe, Diabetes
+Pediatrics, 27, Anthony Martinez, Pneumonia
+Pediatrics, 96, Dean Morgan, Diabetes
+Pediatrics, 3, Liam Morgan, Asthma
+Pediatrics, 97, Liam Williams, Pneumonia
+Therapy, 93, Jane Morgan, Heart Failure
+Surgery, 26, Oliver Brown, Diabetes
+Cardiology, 90, Anthony Rodriguez, Heart Failure
+Therapy, 55, Sam Johnson, Diabetes
+Surgery, 20, Dean Brown, Pneumonia
+Neurology, 83, James Rodriguez, Pneumonia
+Pediatrics, 18, Jane Johnson, Heart Failure
+Therapy, 44, Anthony Rodriguez, Diabetes
+Neurology, 83, Jane Garcia, Asthma
+Surgery, 83, James Miller, Pneumonia
+Therapy, 11, Oliver Brown, Asthma
+Therapy, 94, Violet Garcia, Pneumonia
+Pediatrics, 22, Emma Johnson, Asthma
+Therapy, 77, James Martinez, Flu
+Therapy, 88, Olivia Rodriguez, Asthma
+Pediatrics, 52, Henry Doe, Pneumonia
+Therapy, 53, James Davis, Diabetes
+Surgery, 32, Ava Doe, Heart Failure
+Surgery, 54, Violet Doe, Flu
+Therapy, 31, Charlotte Davis, Flu
+Pediatrics, 56, Ava Morgan, Pneumonia
+Therapy, 88, Oliver Winchester, Flu
+Therapy, 88, Jack Miller, Diabetes
+Cardiology, 95, Jack Smith, Pneumonia
+Pediatrics, 72, Dean Doe, Diabetes
+Surgery, 76, Jane Johnson, Heart Failure
+Therapy, 63, Ava Martinez, Heart Failure
+Therapy, 49, Oliver Johnson, Heart Failure
+Cardiology, 61, Charlotte Martinez, Asthma
+Therapy, 79, James Jones, Diabetes
+Pediatrics, 99, Henry Winchester, Flu
+Pediatrics, 45, Charlotte Williams, Pneumonia
+Therapy, 20, Sam Martinez, Pneumonia
+Therapy, 99, Emma Garcia, Pneumonia
+Therapy, 8, Jane Brown, Heart Failure
+Neurology, 72, James Miller, Diabetes
+Surgery, 64, Noah Winchester, Heart Failure
+Therapy, 31, Jane Garcia, Flu
+Cardiology, 43, Emma Doe, Asthma
+Cardiology, 47, Jane Garcia, Diabetes
+Neurology, 7, Elijah Davis, Flu
+Surgery, 9, Charlotte Smith, Asthma
+Surgery, 32, James Morgan, Pneumonia
+Pediatrics, 42, Elijah Jones, Asthma
+Cardiology, 83, Ava Johnson, Heart Failure
+Cardiology, 24, Dean Davis, Flu
+Pediatrics, 61, Charlotte Jones, Asthma
+Pediatrics, 15, Olivia Smith, Diabetes
+Therapy, 10, Liam Miller, Asthma
+Therapy, 76, Sam Smith, Pneumonia
+Pediatrics, 59, Jane Johnson, Flu
+Pediatrics, 44, Sam Winchester, Diabetes
+Pediatrics, 9, Charlotte Davis, Pneumonia
+Pediatrics, 7, Dean Martinez, Diabetes
+Cardiology, 85, Liam Miller, Flu
+Therapy, 20, Olivia Morgan, Diabetes
+Cardiology, 90, Anthony Jones, Flu
+Neurology, 43, Emma Morgan, Flu
+Pediatrics, 37, Oliver Davis, Diabetes
+Neurology, 28, Ava Doe, Flu
+Neurology, 48, Sophia Martinez, Asthma
+Therapy, 17, Ava Garcia, Pneumonia
+Pediatrics, 34, Dean Rodriguez, Diabetes
+Cardiology, 68, Henry Garcia, Asthma
+Cardiology, 48, Ava Martinez, Asthma
+Neurology, 10, Olivia Miller, Diabetes
+Surgery, 56, Emma Morgan, Diabetes
+Therapy, 31, Noah Brown, Flu
+Therapy, 30, Liam Winchester, Pneumonia
+Surgery, 96, Dean Garcia, Flu
+Neurology, 23, Emma Rodriguez, Heart Failure
+Surgery, 62, Anthony Rodriguez, Diabetes
+Surgery, 31, Liam Davis, Asthma
+Therapy, 48, Emma Johnson, Diabetes
+Neurology, 72, Liam Doe, Diabetes
+Neurology, 50, Charlotte Martinez, Asthma
+Cardiology, 18, Elijah Smith, Flu
+Pediatrics, 53, Jack Morgan, Asthma
+Surgery, 38, Jack Williams, Heart Failure
+Cardiology, 15, Violet Williams, Flu
+Surgery, 49, Anthony Jones, Flu
+Neurology, 93, Noah Doe, Asthma
+Surgery, 59, Sophia Brown, Heart Failure
+Neurology, 80, Violet Garcia, Diabetes
+Cardiology, 93, Anthony Johnson, Asthma
+Therapy, 24, Violet Brown, Diabetes
+Pediatrics, 78, Noah Jones, Diabetes
+Therapy, 80, Charlotte Martinez, Heart Failure
+Cardiology, 67, Dean Rodriguez, Flu
+Surgery, 15, Emma Winchester, Heart Failure
+Neurology, 76, Jack Brown, Flu
+Therapy, 57, James Brown, Diabetes
+Cardiology, 80, Jane Jones, Asthma
+Neurology, 31, Sam Morgan, Pneumonia
+Therapy, 81, Elijah Brown, Diabetes
+Surgery, 82, Elijah Brown, Flu
+Cardiology, 31, Jack Morgan, Pneumonia
+Surgery, 80, Jack Martinez, Heart Failure
+Neurology, 75, James Jones, Pneumonia
+Neurology, 37, Liam Martinez, Flu
+Neurology, 82, Anthony Winchester, Heart Failure
+Therapy, 94, Oliver Johnson, Flu
+Pediatrics, 75, Charlotte Smith, Flu
+Therapy, 59, James Johnson, Pneumonia
+Pediatrics, 80, Olivia Johnson, Pneumonia
+Neurology, 49, Anthony Miller, Asthma
+Neurology, 1, Oliver Garcia, Asthma
+Neurology, 83, Oliver Doe, Diabetes
+Therapy, 74, Emma Garcia, Diabetes
+Neurology, 16, Sam Morgan, Pneumonia
+Cardiology, 25, Oliver Brown, Pneumonia
+Surgery, 47, Jack Williams, Heart Failure
+Neurology, 45, Elijah Rodriguez, Pneumonia
+Therapy, 90, Violet Morgan, Asthma
+Cardiology, 56, Dean Garcia, Pneumonia
+Neurology, 32, James Brown, Asthma
+Neurology, 27, Dean Brown, Flu
+Neurology, 19, Emma Davis, Flu
+Surgery, 80, Emma Smith, Flu
+Therapy, 34, Noah Johnson, Flu
+Pediatrics, 77, Henry Morgan, Pneumonia
+Therapy, 74, Jack Winchester, Heart Failure
+Cardiology, 6, Dean Doe, Pneumonia
+Surgery, 38, Jack Doe, Flu
+Therapy, 80, Jack Garcia, Pneumonia
+Surgery, 5, Anthony Jones, Flu
+Surgery, 21, Charlotte Doe, Flu
+Neurology, 9, Henry Doe, Asthma
+Pediatrics, 32, Jane Winchester, Pneumonia
+Pediatrics, 3, Dean Williams, Flu
+Surgery, 69, Elijah Garcia, Heart Failure
+Therapy, 56, Olivia Davis, Heart Failure
+Neurology, 15, Henry Garcia, Heart Failure
+Therapy, 14, Anthony Johnson, Diabetes
+Pediatrics, 90, Sophia Miller, Diabetes
+Surgery, 21, Dean Martinez, Heart Failure
+Cardiology, 62, James Davis, Pneumonia
+Surgery, 58, Oliver Winchester, Diabetes
+Surgery, 85, Elijah Martinez, Heart Failure
+Cardiology, 25, Olivia Smith, Asthma
+Surgery, 95, Ava Martinez, Flu
+Neurology, 37, James Martinez, Diabetes
+Cardiology, 90, Ava Winchester, Heart Failure
+Surgery, 44, Oliver Garcia, Heart Failure
+Pediatrics, 25, Jack Johnson, Diabetes
+Cardiology, 60, Anthony Davis, Pneumonia
+Therapy, 20, Ava Winchester, Flu
+Neurology, 24, Noah Doe, Asthma
+Pediatrics, 59, Henry Rodriguez, Heart Failure
+Surgery, 6, Henry Miller, Pneumonia
+Therapy, 43, Liam Davis, Asthma
+Neurology, 33, Emma Davis, Flu
+Surgery, 75, Jack Williams, Asthma
+Pediatrics, 28, Charlotte Jones, Diabetes
+Pediatrics, 66, Jane Johnson, Heart Failure
+Surgery, 70, Charlotte Rodriguez, Asthma
+Pediatrics, 58, Anthony Rodriguez, Diabetes
+Pediatrics, 87, Jack Doe, Pneumonia
+Therapy, 98, Dean Jones, Pneumonia
+Therapy, 3, Emma Rodriguez, Flu
+Therapy, 86, Olivia Garcia, Flu
+Cardiology, 6, Sophia Smith, Diabetes
+Pediatrics, 12, Noah Smith, Pneumonia
+Cardiology, 18, Olivia Garcia, Diabetes
+Neurology, 22, Jane Miller, Pneumonia
+Cardiology, 63, Liam Davis, Diabetes
+Neurology, 18, Olivia Brown, Diabetes
+Pediatrics, 79, Emma Doe, Diabetes
+Surgery, 51, Ava Morgan, Flu
+Surgery, 27, Emma Winchester, Pneumonia
+Surgery, 98, Emma Miller, Asthma
+Therapy, 79, Olivia Martinez, Asthma
+Surgery, 49, Liam Jones, Diabetes
+Pediatrics, 31, Sophia Williams, Pneumonia
+Cardiology, 99, Sam Morgan, Pneumonia
+Surgery, 82, James Williams, Pneumonia
+Cardiology, 88, Jack Davis, Flu
+Cardiology, 72, Sophia Morgan, Flu
+Pediatrics, 61, Oliver Smith, Asthma
+Therapy, 87, James Garcia, Diabetes
+Neurology, 23, Jack Brown, Flu
+Cardiology, 64, Henry Brown, Pneumonia
+Neurology, 53, Charlotte Garcia, Pneumonia
+Therapy, 46, James Jones, Pneumonia
+Neurology, 29, Violet Miller, Heart Failure
+Cardiology, 80, Emma Winchester, Pneumonia
+Cardiology, 72, Oliver Davis, Flu
+Pediatrics, 69, Oliver Rodriguez, Asthma
+Therapy, 92, Sophia Jones, Heart Failure
+Surgery, 29, Emma Jones, Asthma
+Neurology, 3, Emma Brown, Heart Failure
+Cardiology, 58, Emma Morgan, Flu
+Surgery, 68, Oliver Doe, Pneumonia
+Neurology, 33, Oliver Rodriguez, Heart Failure
+Cardiology, 5, Sophia Doe, Asthma
+Cardiology, 4, Jack Garcia, Pneumonia
+Pediatrics, 88, Anthony Doe, Heart Failure
+Pediatrics, 17, Anthony Martinez, Diabetes
+Neurology, 43, Sophia Winchester, Heart Failure
+Cardiology, 37, Charlotte Martinez, Pneumonia
+Pediatrics, 81, Violet Morgan, Asthma
+Neurology, 74, Jack Davis, Heart Failure
+Pediatrics, 92, Oliver Johnson, Diabetes
+Pediatrics, 64, Olivia Winchester, Flu
+Cardiology, 87, Sophia Johnson, Flu
+Therapy, 19, Olivia Brown, Asthma
+Pediatrics, 36, Dean Williams, Pneumonia
+Cardiology, 89, Sophia Doe, Asthma
+Pediatrics, 68, Violet Winchester, Pneumonia
+Cardiology, 63, Noah Doe, Asthma
+Neurology, 27, Charlotte Miller, Flu
+Pediatrics, 88, Charlotte Johnson, Pneumonia
+Pediatrics, 98, Elijah Morgan, Heart Failure
+Surgery, 30, Violet Winchester, Diabetes
+Pediatrics, 38, Jane Williams, Asthma
+Neurology, 86, Anthony Jones, Pneumonia
+Surgery, 77, Charlotte Morgan, Pneumonia
+Therapy, 56, Oliver Miller, Diabetes
+Surgery, 37, Henry Morgan, Diabetes
+Therapy, 95, Jack Jones, Asthma
+Neurology, 26, Violet Morgan, Asthma
+Pediatrics, 31, Jack Miller, Diabetes
+Neurology, 58, Sophia Williams, Heart Failure
+Surgery, 62, Noah Smith, Diabetes
+Therapy, 43, Emma Johnson, Asthma
+Pediatrics, 37, Ava Jones, Diabetes
+Cardiology, 2, Jack Williams, Asthma
+Therapy, 98, James Garcia, Diabetes
+Neurology, 73, Sophia Rodriguez, Pneumonia
+Neurology, 85, Violet Jones, Flu
+Neurology, 61, Jane Doe, Heart Failure
+Therapy, 2, Anthony Martinez, Heart Failure
+Pediatrics, 52, Emma Miller, Pneumonia
+Therapy, 74, Charlotte Jones, Pneumonia
+Pediatrics, 83, Emma Davis, Pneumonia
+Surgery, 77, Elijah Winchester, Pneumonia
+Cardiology, 17, Violet Williams, Heart Failure
+Cardiology, 13, Jane Morgan, Heart Failure
+Neurology, 52, Noah Winchester, Diabetes
+Surgery, 57, Olivia Johnson, Diabetes
+Neurology, 34, Sophia Morgan, Diabetes
+Cardiology, 62, Elijah Johnson, Flu
+Therapy, 33, Emma Johnson, Diabetes
+Cardiology, 18, James Jones, Diabetes
+Neurology, 39, Charlotte Doe, Pneumonia
+Cardiology, 48, James Jones, Asthma
+Neurology, 88, Dean Garcia, Flu
+Neurology, 61, Anthony Martinez, Pneumonia
+Cardiology, 6, Olivia Winchester, Diabetes
+Therapy, 26, James Jones, Asthma
+Pediatrics, 38, Olivia Miller, Asthma
+Surgery, 94, Sam Winchester, Pneumonia
+Pediatrics, 34, Liam Davis, Pneumonia
+Neurology, 8, Liam Brown, Heart Failure
+Neurology, 16, Ava Jones, Asthma
+Pediatrics, 55, Oliver Davis, Heart Failure
+Cardiology, 21, Sophia Smith, Pneumonia
+Cardiology, 91, Ava Garcia, Diabetes
+Cardiology, 95, Elijah Brown, Flu
+Pediatrics, 58, Anthony Smith, Pneumonia
+Cardiology, 10, Charlotte Davis, Pneumonia
+Neurology, 22, Charlotte Rodriguez, Heart Failure
+Therapy, 20, Henry Martinez, Flu
+Pediatrics, 37, Olivia Smith, Asthma
+Neurology, 15, Olivia Miller, Diabetes
+Neurology, 30, Liam Jones, Diabetes
+Neurology, 73, Jane Rodriguez, Flu
+Therapy, 50, Anthony Davis, Pneumonia
+Cardiology, 76, Sophia Miller, Flu
+Cardiology, 89, Noah Martinez, Diabetes
+Cardiology, 13, Liam Jones, Asthma
+Cardiology, 21, Anthony Smith, Flu
+Pediatrics, 14, Oliver Smith, Heart Failure
+Neurology, 51, Charlotte Rodriguez, Heart Failure
+Therapy, 19, Emma Rodriguez, Heart Failure
+Pediatrics, 100, James Garcia, Asthma
+Pediatrics, 17, Noah Williams, Flu
+Surgery, 79, Olivia Martinez, Flu
+Surgery, 88, Sophia Smith, Heart Failure
+Surgery, 49, Sam Doe, Pneumonia
+Surgery, 75, Ava Jones, Diabetes
+Neurology, 61, Dean Morgan, Heart Failure
+Therapy, 42, Violet Doe, Pneumonia
+Cardiology, 34, Charlotte Smith, Flu
+Surgery, 9, Charlotte Morgan, Pneumonia
+Neurology, 27, Jane Davis, Pneumonia
+Cardiology, 84, Henry Garcia, Pneumonia
+Therapy, 28, Charlotte Jones, Diabetes
+Cardiology, 42, James Jones, Flu
+Cardiology, 17, Oliver Doe, Diabetes
+Cardiology, 90, Anthony Miller, Diabetes
+Cardiology, 7, James Martinez, Pneumonia
+Surgery, 32, Violet Martinez, Diabetes
+Pediatrics, 13, Oliver Johnson, Pneumonia
+Pediatrics, 22, Sophia Doe, Flu
+Cardiology, 46, Emma Garcia, Asthma
+Therapy, 71, Emma Winchester, Heart Failure
+Therapy, 78, Ava Martinez, Asthma
+Pediatrics, 29, Jack Jones, Flu
+Cardiology, 57, Jack Miller, Flu
+Therapy, 75, Emma Garcia, Heart Failure
+Cardiology, 75, Oliver Brown, Asthma
+Surgery, 73, James Smith, Flu
+Neurology, 27, Violet Jones, Diabetes
+Pediatrics, 68, Olivia Martinez, Diabetes
+Cardiology, 53, Dean Davis, Pneumonia
+Surgery, 93, James Garcia, Asthma
+Cardiology, 31, Anthony Garcia, Flu
+Therapy, 99, Oliver Rodriguez, Diabetes
+Therapy, 62, Henry Winchester, Flu
+Neurology, 45, James Jones, Heart Failure
+Surgery, 58, Jack Jones, Pneumonia
+Cardiology, 2, Liam Garcia, Heart Failure
+Therapy, 83, Sophia Davis, Diabetes
+Pediatrics, 31, Sophia Doe, Flu
+Pediatrics, 83, Violet Davis, Heart Failure
+Pediatrics, 42, Liam Martinez, Pneumonia
+Cardiology, 23, Sam Winchester, Asthma
+Cardiology, 52, Henry Miller, Pneumonia
+Pediatrics, 88, Anthony Davis, Pneumonia
+Therapy, 49, Ava Johnson, Asthma
+Neurology, 96, Charlotte Morgan, Diabetes
+Neurology, 19, Emma Smith, Asthma
+Neurology, 69, Jane Johnson, Heart Failure
+Neurology, 55, Jane Williams, Pneumonia
+Pediatrics, 64, James Garcia, Asthma
+Neurology, 42, Dean Jones, Heart Failure
+Cardiology, 31, Jack Brown, Asthma
+Therapy, 100, Sam Jones, Diabetes
+Pediatrics, 60, Olivia Martinez, Heart Failure
+Cardiology, 94, Violet Brown, Heart Failure
+Therapy, 36, Ava Morgan, Pneumonia
+Cardiology, 54, Liam Williams, Heart Failure
+Pediatrics, 32, Anthony Winchester, Heart Failure
+Pediatrics, 53, Dean Doe, Flu
+Cardiology, 14, Anthony Martinez, Heart Failure
+Surgery, 79, Jack Johnson, Pneumonia
+Pediatrics, 24, Liam Smith, Asthma
+Neurology, 38, Emma Williams, Heart Failure
+Neurology, 65, Emma Jones, Diabetes
+Surgery, 55, James Winchester, Diabetes
+Therapy, 41, Sam Williams, Heart Failure
+Cardiology, 36, Jack Winchester, Diabetes
+Cardiology, 55, Elijah Morgan, Asthma
+Neurology, 48, Sophia Jones, Heart Failure
+Neurology, 11, James Rodriguez, Diabetes
+Surgery, 91, Sophia Rodriguez, Heart Failure
+Pediatrics, 27, Liam Brown, Diabetes
+Cardiology, 87, James Doe, Flu
+Pediatrics, 45, Oliver Johnson, Pneumonia
+Therapy, 23, Noah Morgan, Diabetes
+Neurology, 53, Violet Smith, Asthma
+Neurology, 10, Henry Davis, Diabetes
+Pediatrics, 30, Sam Smith, Diabetes
+Cardiology, 81, Noah Garcia, Diabetes
+Pediatrics, 39, Elijah Winchester, Asthma
+Cardiology, 8, Sam Garcia, Flu
+Surgery, 89, Henry Williams, Asthma
+Therapy, 42, Sam Smith, Diabetes
+Pediatrics, 24, Ava Williams, Asthma
+Pediatrics, 90, Liam Smith, Flu
+Cardiology, 75, Ava Davis, Asthma
+Therapy, 89, Anthony Morgan, Heart Failure
+Pediatrics, 1, James Morgan, Pneumonia
+Pediatrics, 16, Anthony Miller, Pneumonia
+Therapy, 93, Ava Miller, Heart Failure
+Pediatrics, 73, Emma Doe, Pneumonia
+Cardiology, 71, Jane Johnson, Pneumonia
+Neurology, 12, Olivia Rodriguez, Asthma
+Cardiology, 36, Elijah Johnson, Heart Failure
+Cardiology, 85, James Johnson, Flu
+Surgery, 30, Olivia Morgan, Heart Failure
+Surgery, 74, Jack Jones, Diabetes
+Cardiology, 87, Emma Martinez, Heart Failure
+Therapy, 81, Jack Winchester, Diabetes
+Surgery, 28, Emma Morgan, Pneumonia
+Therapy, 67, Oliver Martinez, Pneumonia
+Pediatrics, 84, Ava Winchester, Diabetes
+Therapy, 95, Olivia Miller, Pneumonia
+Neurology, 25, Ava Brown, Diabetes
+Cardiology, 12, Sam Doe, Diabetes
+Surgery, 71, Ava Martinez, Flu
+Surgery, 23, Anthony Doe, Pneumonia
+Therapy, 38, Violet Jones, Diabetes
+Pediatrics, 93, Emma Rodriguez, Pneumonia
+Surgery, 98, Charlotte Brown, Pneumonia
+Neurology, 87, Ava Winchester, Flu
+Therapy, 91, Charlotte Miller, Diabetes
+Surgery, 43, Violet Williams, Heart Failure
+Neurology, 74, Violet Smith, Flu
+Pediatrics, 43, Emma Smith, Heart Failure
+Surgery, 98, Violet Rodriguez, Flu
+Cardiology, 99, Sophia Rodriguez, Asthma
+Neurology, 83, Anthony Davis, Pneumonia
+Pediatrics, 43, Oliver Doe, Heart Failure
+Surgery, 86, Ava Brown, Heart Failure
+Surgery, 81, Oliver Johnson, Flu
+Surgery, 56, Olivia Doe, Pneumonia
+Therapy, 11, Ava Morgan, Heart Failure
+Neurology, 26, Sam Williams, Asthma
+Neurology, 51, Emma Winchester, Heart Failure
+Pediatrics, 78, Anthony Williams, Flu
+Therapy, 94, Dean Garcia, Pneumonia
+Pediatrics, 20, Emma Johnson, Diabetes
+Therapy, 13, Sophia Martinez, Flu
+Pediatrics, 55, James Martinez, Heart Failure
+Therapy, 76, Anthony Miller, Asthma
+Therapy, 31, Ava Martinez, Diabetes
+Surgery, 20, Jane Doe, Pneumonia
+Cardiology, 67, Ava Winchester, Flu
+Surgery, 6, James Williams, Diabetes
+Therapy, 90, Violet Brown, Asthma
+Cardiology, 41, Sophia Williams, Asthma
+Therapy, 61, Violet Brown, Flu
+Pediatrics, 2, Noah Doe, Pneumonia
+Therapy, 59, Jack Morgan, Pneumonia
+Therapy, 8, Oliver Morgan, Heart Failure
+Cardiology, 52, Emma Davis, Heart Failure
+Cardiology, 10, Noah Johnson, Pneumonia
+Surgery, 83, Noah Doe, Flu
+Neurology, 41, James Doe, Pneumonia
+Therapy, 59, Noah Davis, Heart Failure
+Cardiology, 88, Jack Johnson, Flu
+Cardiology, 22, Emma Martinez, Asthma
+Cardiology, 32, Anthony Miller, Flu
+Pediatrics, 47, Violet Garcia, Flu
+Surgery, 63, Ava Morgan, Asthma
+Cardiology, 42, Noah Rodriguez, Asthma
+Neurology, 63, Oliver Winchester, Flu
+Surgery, 9, Charlotte Doe, Flu
+Surgery, 9, Elijah Johnson, Asthma
+Neurology, 80, Olivia Williams, Heart Failure
+Pediatrics, 9, Oliver Williams, Asthma
+Cardiology, 1, Dean Johnson, Asthma
+Cardiology, 6, Charlotte Smith, Asthma
+Cardiology, 18, Elijah Smith, Asthma
+Cardiology, 41, Jack Garcia, Diabetes
+Pediatrics, 83, Sophia Johnson, Asthma
+Surgery, 84, Sophia Williams, Heart Failure
+Pediatrics, 20, Emma Martinez, Asthma
+Pediatrics, 61, Elijah Rodriguez, Flu
+Neurology, 62, Elijah Rodriguez, Flu
+Cardiology, 26, Jane Martinez, Diabetes
+Therapy, 42, Ava Davis, Flu
+Surgery, 78, Sophia Johnson, Flu
+Surgery, 44, Oliver Garcia, Heart Failure
+Neurology, 24, Jane Jones, Asthma
+Cardiology, 61, Henry Smith, Flu
+Neurology, 44, Henry Brown, Heart Failure
+Therapy, 53, Olivia Winchester, Asthma
+Cardiology, 44, James Miller, Flu
+Pediatrics, 18, Elijah Williams, Heart Failure
+Therapy, 52, Henry Jones, Flu
+Therapy, 65, Liam Winchester, Flu
+Neurology, 26, Liam Jones, Asthma
+Neurology, 31, Oliver Johnson, Flu
+Pediatrics, 48, Jane Winchester, Pneumonia
+Neurology, 99, Violet Williams, Diabetes
+Pediatrics, 75, Sophia Rodriguez, Pneumonia
+Cardiology, 73, Sam Doe, Heart Failure
+Neurology, 26, Charlotte Miller, Diabetes
+Surgery, 84, Sam Rodriguez, Asthma
+Pediatrics, 52, James Rodriguez, Diabetes
+Therapy, 18, Jane Brown, Pneumonia
+Pediatrics, 23, James Winchester, Asthma
+Neurology, 60, Anthony Brown, Asthma
+Surgery, 93, Oliver Rodriguez, Heart Failure
+Cardiology, 9, Sophia Brown, Flu
+Surgery, 32, Sophia Morgan, Pneumonia
+Therapy, 48, Emma Martinez, Asthma
+Surgery, 79, Olivia Winchester, Diabetes
+Surgery, 69, Emma Davis, Flu
+Surgery, 93, Violet Jones, Diabetes
+Surgery, 38, Olivia Doe, Diabetes
+Neurology, 3, Violet Garcia, Heart Failure
+Cardiology, 73, Emma Doe, Flu
+Cardiology, 36, Oliver Garcia, Flu
+Neurology, 34, Violet Jones, Flu
+Pediatrics, 35, Liam Smith, Pneumonia
+Surgery, 92, Noah Brown, Asthma
+Neurology, 97, Sophia Johnson, Flu
+Neurology, 79, Violet Miller, Diabetes
+Cardiology, 70, James Williams, Pneumonia
+Therapy, 67, Noah Miller, Diabetes
+Neurology, 20, Sam Johnson, Diabetes
+Pediatrics, 31, Oliver Davis, Heart Failure
+Pediatrics, 70, Charlotte Williams, Diabetes
+Neurology, 55, Dean Johnson, Pneumonia
+Neurology, 32, Henry Martinez, Pneumonia
+Surgery, 29, Charlotte Davis, Pneumonia
+Cardiology, 96, Charlotte Morgan, Pneumonia
+Surgery, 72, Violet Garcia, Diabetes
+Therapy, 36, Dean Winchester, Pneumonia
+Surgery, 37, Emma Doe, Pneumonia
+Surgery, 95, Sam Rodriguez, Heart Failure
+Neurology, 86, Elijah Davis, Diabetes
+Neurology, 37, Violet Martinez, Diabetes
+Pediatrics, 43, Sam Smith, Asthma
+Neurology, 79, Sophia Morgan, Flu
+Pediatrics, 79, Jane Brown, Diabetes
+Pediatrics, 46, Sophia Jones, Heart Failure
+Neurology, 1, Olivia Miller, Flu
+Therapy, 24, Violet Miller, Pneumonia
+Cardiology, 9, Henry Garcia, Flu
+Therapy, 27, Anthony Jones, Pneumonia
+Therapy, 21, Jane Johnson, Asthma
+Surgery, 14, Elijah Jones, Diabetes
+Neurology, 90, Anthony Miller, Diabetes
+Neurology, 67, Elijah Doe, Pneumonia
+Therapy, 91, Oliver Rodriguez, Pneumonia
+Surgery, 69, Jane Martinez, Flu
+Surgery, 3, Oliver Rodriguez, Flu
+Pediatrics, 7, Charlotte Doe, Flu
+Neurology, 74, Liam Johnson, Heart Failure
+Pediatrics, 46, Liam Morgan, Asthma
+Therapy, 97, Jack Jones, Pneumonia
+Surgery, 82, Jane Doe, Asthma
+Cardiology, 14, Emma Williams, Heart Failure
+Neurology, 57, Jane Brown, Pneumonia
+Surgery, 3, Dean Johnson, Heart Failure
+Pediatrics, 75, Jack Rodriguez, Flu
+Neurology, 61, Violet Brown, Pneumonia
+Neurology, 15, Oliver Morgan, Asthma
+Cardiology, 99, Dean Williams, Asthma
+Neurology, 85, James Jones, Heart Failure
+Neurology, 65, Sam Johnson, Diabetes
+Neurology, 92, Dean Rodriguez, Pneumonia
+Therapy, 75, Oliver Garcia, Asthma
+Pediatrics, 24, Sam Jones, Asthma
+Neurology, 44, Ava Jones, Heart Failure
+Surgery, 53, Sam Jones, Pneumonia
+Therapy, 99, Jane Winchester, Asthma
+Neurology, 41, Anthony Martinez, Flu
+Surgery, 81, Sophia Jones, Asthma
+Neurology, 29, Dean Davis, Diabetes
+Cardiology, 72, Dean Morgan, Asthma
+Pediatrics, 65, James Williams, Asthma
+Neurology, 42, James Doe, Diabetes
+Pediatrics, 11, Sophia Smith, Diabetes
+Therapy, 94, Sam Morgan, Diabetes
+Therapy, 60, Elijah Martinez, Heart Failure
+Neurology, 57, Jane Johnson, Flu
+Neurology, 62, Olivia Williams, Pneumonia
+Pediatrics, 55, Dean Brown, Asthma
+Pediatrics, 55, Noah Martinez, Asthma
+Pediatrics, 69, Elijah Martinez, Asthma
+Neurology, 9, Charlotte Brown, Asthma
+Therapy, 100, Jack Jones, Flu
+Surgery, 49, Elijah Davis, Flu
+Neurology, 77, Sophia Jones, Pneumonia
+Cardiology, 18, Henry Morgan, Heart Failure
+Neurology, 99, Olivia Smith, Asthma
+Therapy, 83, Oliver Doe, Flu
+Surgery, 34, Anthony Rodriguez, Pneumonia
+Surgery, 76, Henry Jones, Asthma
+Cardiology, 26, Sophia Garcia, Diabetes
+Pediatrics, 71, Elijah Winchester, Diabetes
+Pediatrics, 31, Sophia Rodriguez, Asthma
+Surgery, 44, Dean Miller, Diabetes
+Therapy, 38, Dean Smith, Heart Failure
+Surgery, 94, Elijah Jones, Pneumonia
+Therapy, 19, Henry Winchester, Pneumonia
+Neurology, 6, Sophia Martinez, Diabetes
+Surgery, 61, Charlotte Brown, Heart Failure
+Pediatrics, 52, Liam Smith, Asthma
+Therapy, 63, Oliver Jones, Asthma
+Surgery, 22, Violet Martinez, Flu
+Surgery, 36, Jane Jones, Heart Failure
+Cardiology, 55, Emma Davis, Heart Failure
+Cardiology, 82, Sophia Jones, Flu
+Neurology, 67, Henry Morgan, Diabetes
+Surgery, 94, Jack Winchester, Heart Failure
+Pediatrics, 82, Jack Johnson, Pneumonia
+Therapy, 62, Sam Miller, Asthma
+Surgery, 3, Sophia Martinez, Asthma
+Cardiology, 44, Olivia Winchester, Flu
+Cardiology, 66, Sam Smith, Asthma
+Therapy, 34, Henry Rodriguez, Diabetes
+Surgery, 47, Anthony Jones, Diabetes
+Therapy, 99, Liam Morgan, Heart Failure
+Therapy, 57, Sam Williams, Asthma
+Cardiology, 100, Henry Brown, Heart Failure
+Neurology, 30, Sam Rodriguez, Asthma
+Cardiology, 55, Elijah Brown, Pneumonia
+Cardiology, 36, Jane Williams, Asthma
+Therapy, 100, Liam Rodriguez, Pneumonia
+Neurology, 26, Anthony Williams, Diabetes
+Neurology, 24, Emma Winchester, Asthma
+Cardiology, 94, Liam Rodriguez, Pneumonia
+Therapy, 100, Olivia Miller, Pneumonia
+Surgery, 41, Anthony Williams, Asthma
+Cardiology, 49, Henry Smith, Asthma
+Cardiology, 100, James Miller, Heart Failure
+Therapy, 32, Elijah Garcia, Pneumonia
+Pediatrics, 96, Charlotte Winchester, Diabetes
+Pediatrics, 75, Olivia Davis, Diabetes
+Therapy, 42, Sam Winchester, Asthma
+Pediatrics, 48, Emma Doe, Diabetes
+Pediatrics, 64, Anthony Brown, Flu
+Cardiology, 23, Ava Winchester, Flu
+Surgery, 2, Olivia Miller, Flu
+Neurology, 60, Oliver Winchester, Pneumonia
+Surgery, 97, Anthony Jones, Pneumonia
+Neurology, 70, James Morgan, Flu
+Therapy, 74, Liam Rodriguez, Flu
+Therapy, 36, Jane Miller, Diabetes
+Pediatrics, 40, Charlotte Garcia, Flu
+Therapy, 83, Sophia Davis, Pneumonia
+Pediatrics, 63, Olivia Rodriguez, Diabetes
+Neurology, 49, Violet Winchester, Pneumonia
+Surgery, 55, Jack Brown, Asthma
+Surgery, 38, Charlotte Martinez, Heart Failure
+Pediatrics, 36, Oliver Martinez, Heart Failure
+Pediatrics, 83, Sam Johnson, Asthma
+Pediatrics, 1, Liam Jones, Diabetes
+Pediatrics, 26, Oliver Brown, Asthma
+Therapy, 50, Noah Davis, Asthma
+Pediatrics, 94, Liam Miller, Diabetes
+Therapy, 67, Jack Garcia, Diabetes
+Cardiology, 94, Dean Doe, Heart Failure
+Therapy, 1, Sam Smith, Asthma
+Cardiology, 42, Noah Brown, Pneumonia
+Surgery, 44, Charlotte Smith, Asthma
+Cardiology, 17, Oliver Rodriguez, Pneumonia
+Pediatrics, 70, Noah Miller, Asthma
+Surgery, 54, Olivia Rodriguez, Heart Failure
+Therapy, 94, Henry Morgan, Diabetes
+Therapy, 38, Sophia Doe, Flu
+Surgery, 47, Ava Morgan, Flu
+Neurology, 21, Charlotte Brown, Pneumonia
+Pediatrics, 66, Charlotte Brown, Flu
+Pediatrics, 64, Ava Davis, Flu
+Neurology, 3, Sophia Garcia, Asthma
+Surgery, 90, Dean Winchester, Pneumonia
+Therapy, 22, Jane Rodriguez, Heart Failure
+Surgery, 41, Henry Johnson, Heart Failure
+Surgery, 95, Emma Johnson, Heart Failure
+Surgery, 73, Anthony Smith, Pneumonia
+Therapy, 22, Ava Martinez, Heart Failure
+Therapy, 60, Anthony Williams, Pneumonia
+Surgery, 70, Dean Winchester, Pneumonia
+Surgery, 15, Elijah Miller, Heart Failure
+Neurology, 24, Sophia Winchester, Asthma
+Neurology, 97, Jack Rodriguez, Pneumonia
+Pediatrics, 3, Dean Williams, Heart Failure
+Surgery, 46, Ava Morgan, Pneumonia
+Neurology, 84, Jane Doe, Flu
+Therapy, 73, Charlotte Miller, Flu
+Therapy, 6, Jack Morgan, Pneumonia
+Neurology, 56, Dean Garcia, Flu
+Therapy, 1, Sam Miller, Flu
+Cardiology, 3, Sophia Winchester, Flu
+Neurology, 19, Jack Morgan, Asthma
+Pediatrics, 88, Henry Martinez, Flu
+Cardiology, 69, Jane Jones, Diabetes
+Cardiology, 30, Ava Rodriguez, Heart Failure
+Cardiology, 6, Ava Williams, Asthma
+Pediatrics, 58, Violet Morgan, Heart Failure
+Cardiology, 61, Olivia Jones, Heart Failure
+Cardiology, 46, Jack Williams, Pneumonia
+Neurology, 45, Jane Brown, Heart Failure
+Pediatrics, 46, Oliver Morgan, Heart Failure
+Therapy, 91, Henry Smith, Heart Failure
+Pediatrics, 3, Charlotte Johnson, Flu
+Therapy, 89, Charlotte Johnson, Asthma
+Cardiology, 54, Liam Rodriguez, Flu
+Neurology, 45, Dean Doe, Asthma
+Therapy, 19, Olivia Williams, Asthma
+Neurology, 53, Elijah Martinez, Diabetes
+Neurology, 78, Liam Morgan, Asthma
+Pediatrics, 77, Oliver Winchester, Asthma
+Pediatrics, 55, Jack Jones, Flu
+Surgery, 70, Olivia Smith, Heart Failure
+Therapy, 100, Dean Jones, Pneumonia
+Neurology, 3, Violet Johnson, Asthma
+Neurology, 72, Sam Brown, Diabetes
+Therapy, 86, Liam Miller, Pneumonia
+Neurology, 26, Jack Martinez, Heart Failure
+Cardiology, 8, Ava Martinez, Flu
+Cardiology, 39, Elijah Brown, Diabetes
+Cardiology, 28, Liam Johnson, Diabetes
+Cardiology, 30, Sam Martinez, Flu
+Pediatrics, 55, Sophia Brown, Pneumonia
+Surgery, 50, Henry Brown, Heart Failure
+Cardiology, 19, Noah Winchester, Flu
+Therapy, 62, James Johnson, Heart Failure
+Cardiology, 72, Ava Rodriguez, Diabetes
+Therapy, 90, Violet Davis, Flu
+Therapy, 19, Henry Brown, Flu
+Pediatrics, 9, Liam Garcia, Diabetes
+Surgery, 97, Sophia Davis, Heart Failure
+Neurology, 5, Noah Smith, Diabetes
+Therapy, 1, Noah Winchester, Asthma
+Cardiology, 31, Charlotte Jones, Flu
+Therapy, 17, Jack Winchester, Asthma
+Cardiology, 17, Henry Winchester, Asthma
+Cardiology, 80, Sophia Brown, Diabetes
+Pediatrics, 3, Jack Rodriguez, Heart Failure
+Neurology, 72, Emma Jones, Asthma
+Surgery, 15, James Williams, Diabetes
+Surgery, 88, Violet Rodriguez, Flu
+Therapy, 47, Violet Doe, Asthma
+Therapy, 100, Olivia Smith, Diabetes
+Pediatrics, 21, Oliver Brown, Flu
+Cardiology, 17, Jack Rodriguez, Heart Failure
+Therapy, 27, James Doe, Diabetes
+Neurology, 58, Liam Garcia, Diabetes
+Pediatrics, 13, Liam Morgan, Asthma
+Pediatrics, 77, James Miller, Heart Failure
+Pediatrics, 46, Emma Doe, Diabetes
+Cardiology, 21, Emma Rodriguez, Diabetes
+Therapy, 70, Sam Jones, Heart Failure
+Therapy, 40, Olivia Doe, Diabetes
+Cardiology, 7, Oliver Morgan, Diabetes
+Neurology, 42, Sam Morgan, Pneumonia
+Cardiology, 28, Oliver Doe, Pneumonia
+Therapy, 57, Jane Brown, Pneumonia
+Cardiology, 37, Noah Garcia, Diabetes
+Therapy, 18, Dean Miller, Pneumonia
+Surgery, 62, Sam Williams, Asthma
+Therapy, 14, Jane Miller, Asthma
+Cardiology, 89, Ava Martinez, Pneumonia
+Surgery, 65, Violet Brown, Pneumonia
+Cardiology, 16, Sophia Davis, Flu
+Neurology, 2, Dean Smith, Diabetes
+Neurology, 67, Sophia Jones, Asthma
+Pediatrics, 65, Henry Winchester, Pneumonia
+Surgery, 2, Dean Garcia, Heart Failure
+Pediatrics, 84, Sophia Garcia, Diabetes
+Neurology, 19, Henry Martinez, Asthma
+Surgery, 28, Oliver Johnson, Flu
+Neurology, 95, Liam Williams, Asthma
+Cardiology, 81, Sophia Miller, Flu
+Therapy, 37, Jane Jones, Flu
+Therapy, 42, Emma Williams, Asthma
+Neurology, 90, Jane Smith, Asthma
+Surgery, 69, Sophia Johnson, Flu
+Cardiology, 5, Violet Martinez, Flu
+Pediatrics, 82, Sophia Davis, Flu
+Cardiology, 57, James Smith, Diabetes
+Neurology, 74, Emma Brown, Flu
+Pediatrics, 68, Jack Davis, Flu
+Therapy, 31, Jack Davis, Pneumonia
+Therapy, 62, Violet Brown, Heart Failure
+Cardiology, 1, Charlotte Martinez, Flu
+Neurology, 7, Charlotte Garcia, Heart Failure
+Pediatrics, 89, James Garcia, Flu
+Therapy, 49, Henry Garcia, Heart Failure
+Pediatrics, 16, Emma Martinez, Pneumonia
+Pediatrics, 95, Charlotte Miller, Pneumonia
+Neurology, 91, Jack Doe, Asthma
+Pediatrics, 54, Henry Brown, Asthma
+Therapy, 70, Liam Davis, Flu
+Cardiology, 8, Jack Martinez, Diabetes
+Surgery, 60, Oliver Smith, Diabetes
+Surgery, 26, James Garcia, Heart Failure
+Therapy, 73, Emma Rodriguez, Heart Failure
+Pediatrics, 59, Liam Smith, Diabetes
+Cardiology, 14, Emma Miller, Diabetes
+Pediatrics, 25, Liam Rodriguez, Flu
+Surgery, 29, Sam Doe, Asthma
+Cardiology, 18, Violet Jones, Flu
+Pediatrics, 3, Anthony Brown, Heart Failure
+Neurology, 99, Emma Brown, Flu
+Pediatrics, 87, Noah Brown, Heart Failure
+Cardiology, 94, Emma Morgan, Pneumonia
+Therapy, 55, Jane Doe, Flu
+Neurology, 31, Elijah Rodriguez, Heart Failure
+Therapy, 81, James Smith, Diabetes
+Therapy, 41, Noah Morgan, Diabetes
+Pediatrics, 49, Jane Doe, Pneumonia
+Surgery, 73, Dean Doe, Pneumonia
+Cardiology, 20, Ava Doe, Pneumonia
+Neurology, 49, Ava Davis, Heart Failure
+Pediatrics, 54, Jack Rodriguez, Pneumonia
+Therapy, 89, Sophia Morgan, Asthma
+Neurology, 56, Noah Martinez, Diabetes
+Surgery, 38, Anthony Brown, Asthma
+Cardiology, 57, Olivia Jones, Flu
+Cardiology, 11, Sam Winchester, Heart Failure
+Cardiology, 40, Liam Martinez, Flu
+Surgery, 1, Olivia Brown, Heart Failure
+Neurology, 93, Jane Rodriguez, Pneumonia
+Neurology, 4, Liam Miller, Flu
+Therapy, 2, James Rodriguez, Flu
+Cardiology, 97, Jack Miller, Flu
+Therapy, 65, Emma Winchester, Asthma
+Surgery, 60, Henry Jones, Diabetes
+Pediatrics, 61, Henry Jones, Pneumonia
+Neurology, 16, Noah Davis, Asthma
+Surgery, 94, Anthony Smith, Pneumonia
+Cardiology, 52, Dean Doe, Pneumonia
+Therapy, 13, Olivia Johnson, Diabetes
+Pediatrics, 36, Elijah Brown, Diabetes
+Neurology, 35, Henry Miller, Diabetes
+Neurology, 21, Charlotte Morgan, Pneumonia
+Neurology, 10, Sam Winchester, Flu
+Neurology, 84, James Johnson, Pneumonia
+Pediatrics, 58, Oliver Brown, Diabetes
+Neurology, 31, Violet Winchester, Flu
+Pediatrics, 91, Ava Davis, Pneumonia
+Pediatrics, 92, Noah Davis, Asthma
+Neurology, 11, Oliver Winchester, Asthma
+Surgery, 91, Emma Martinez, Flu
+Cardiology, 1, Jack Morgan, Asthma
+Cardiology, 3, Charlotte Miller, Pneumonia
+Cardiology, 50, Noah Rodriguez, Flu
+Neurology, 47, Jack Smith, Heart Failure
+Surgery, 54, Liam Martinez, Heart Failure
+Cardiology, 19, Dean Miller, Asthma
+Cardiology, 86, James Rodriguez, Asthma
+Cardiology, 94, Liam Jones, Heart Failure
+Pediatrics, 40, James Winchester, Diabetes
+Surgery, 95, Noah Doe, Diabetes
+Pediatrics, 11, Jack Johnson, Diabetes
+Pediatrics, 81, Elijah Smith, Asthma
+Surgery, 71, Sam Johnson, Pneumonia
+Cardiology, 36, Jack Johnson, Pneumonia
+Neurology, 86, Olivia Rodriguez, Flu
+Cardiology, 58, Charlotte Garcia, Pneumonia
+Cardiology, 84, Dean Brown, Pneumonia
+Surgery, 24, Henry Winchester, Flu
+Neurology, 68, Jack Garcia, Flu
+Pediatrics, 38, Sam Doe, Pneumonia
+Surgery, 93, Charlotte Johnson, Flu
+Surgery, 35, Sophia Williams, Diabetes
+Neurology, 65, Emma Miller, Asthma
+Neurology, 8, Henry Martinez, Asthma
+Surgery, 50, Jane Rodriguez, Asthma
+Cardiology, 5, Liam Brown, Diabetes
+Neurology, 54, Violet Garcia, Diabetes
+Surgery, 16, Jack Winchester, Asthma
+Neurology, 53, Noah Winchester, Asthma
+Neurology, 12, Emma Garcia, Asthma
+Neurology, 59, Emma Williams, Asthma
+Surgery, 28, Olivia Doe, Diabetes
+Cardiology, 14, Violet Rodriguez, Diabetes
+Therapy, 48, Ava Rodriguez, Asthma
+Therapy, 23, Olivia Jones, Flu
+Neurology, 76, Anthony Davis, Pneumonia
+Neurology, 19, Noah Winchester, Asthma
+Cardiology, 21, Violet Brown, Heart Failure
+Cardiology, 95, Liam Garcia, Asthma
+Cardiology, 29, Jack Garcia, Diabetes
+Neurology, 72, Dean Morgan, Asthma
+Surgery, 59, James Miller, Heart Failure
+Cardiology, 37, Olivia Martinez, Asthma
+Pediatrics, 71, Jane Rodriguez, Flu
+Surgery, 82, James Davis, Heart Failure
+Therapy, 53, Henry Smith, Asthma
+Pediatrics, 45, Violet Johnson, Asthma
+Pediatrics, 78, Sam Smith, Diabetes
+Surgery, 67, Liam Brown, Flu
+Neurology, 55, Sam Morgan, Heart Failure
+Pediatrics, 7, Dean Doe, Flu
+Pediatrics, 93, Jane Smith, Pneumonia
+Pediatrics, 46, Anthony Rodriguez, Pneumonia
+Neurology, 1, Violet Doe, Heart Failure
+Cardiology, 77, James Morgan, Flu
+Surgery, 20, Liam Miller, Pneumonia
+Pediatrics, 52, Henry Martinez, Flu
+Neurology, 73, Charlotte Jones, Flu
+Pediatrics, 98, Liam Davis, Pneumonia
+Therapy, 49, Oliver Smith, Flu
+Neurology, 54, Oliver Miller, Asthma
+Therapy, 49, James Brown, Flu
+Pediatrics, 94, Olivia Doe, Heart Failure
+Therapy, 7, Anthony Martinez, Diabetes
+Surgery, 21, Elijah Williams, Diabetes
+Pediatrics, 64, Emma Smith, Flu
+Cardiology, 80, Ava Davis, Diabetes
+Surgery, 78, Olivia Rodriguez, Heart Failure
+Cardiology, 7, Dean Davis, Heart Failure
+Cardiology, 73, Jane Johnson, Diabetes
+Surgery, 48, Olivia Rodriguez, Heart Failure
+Surgery, 6, Sam Doe, Flu
+Therapy, 40, Elijah Williams, Flu
+Surgery, 33, James Jones, Heart Failure
+Surgery, 22, Sophia Williams, Diabetes
+Therapy, 40, Ava Williams, Pneumonia
+Neurology, 12, Elijah Morgan, Pneumonia
+Pediatrics, 91, Emma Morgan, Asthma
+Therapy, 84, Jack Jones, Flu
+Pediatrics, 65, Jack Brown, Diabetes
+Cardiology, 90, Anthony Miller, Asthma
+Pediatrics, 47, Violet Brown, Flu
+Surgery, 37, Olivia Smith, Flu
+Surgery, 34, Ava Winchester, Heart Failure
+Pediatrics, 98, Henry Johnson, Pneumonia
+Surgery, 67, Oliver Johnson, Heart Failure
+Cardiology, 93, James Morgan, Asthma
+Cardiology, 38, Ava Garcia, Diabetes
+Neurology, 4, Henry Doe, Flu
+Cardiology, 93, Elijah Rodriguez, Pneumonia
+Neurology, 27, Olivia Morgan, Pneumonia
+Neurology, 59, Dean Jones, Heart Failure
+Pediatrics, 64, Dean Johnson, Asthma
+Therapy, 14, Ava Johnson, Flu
+Pediatrics, 72, Jack Johnson, Heart Failure
+Surgery, 64, Ava Johnson, Pneumonia
+Surgery, 31, Emma Rodriguez, Pneumonia
+Cardiology, 15, Jane Doe, Asthma
+Pediatrics, 64, Anthony Johnson, Pneumonia
+Therapy, 57, James Morgan, Asthma
+Pediatrics, 53, Sam Martinez, Heart Failure
+Cardiology, 61, Charlotte Winchester, Heart Failure
+Pediatrics, 92, Oliver Morgan, Asthma
+Therapy, 46, James Rodriguez, Pneumonia
+Neurology, 97, Ava Martinez, Diabetes
+Cardiology, 63, Charlotte Miller, Flu
+Surgery, 35, Olivia Rodriguez, Asthma
+Cardiology, 61, James Winchester, Heart Failure
+Neurology, 35, Violet Jones, Diabetes
+Therapy, 80, Oliver Davis, Diabetes
+Pediatrics, 16, Oliver Doe, Heart Failure
+Therapy, 85, Jane Rodriguez, Asthma
+Surgery, 100, James Williams, Flu
+Surgery, 34, Jane Johnson, Pneumonia
+Pediatrics, 5, Liam Garcia, Pneumonia
+Cardiology, 64, James Johnson, Heart Failure
+Pediatrics, 10, Jane Jones, Heart Failure
+Pediatrics, 33, Oliver Johnson, Pneumonia
+Neurology, 1, Sophia Rodriguez, Heart Failure
+Pediatrics, 22, Sophia Martinez, Flu
+Neurology, 80, Dean Brown, Flu
+Therapy, 25, Ava Doe, Flu
+Surgery, 57, Noah Williams, Pneumonia
+Therapy, 99, Sam Morgan, Heart Failure
+Therapy, 22, Charlotte Rodriguez, Asthma
+Pediatrics, 2, Violet Morgan, Asthma
+Therapy, 96, Olivia Winchester, Flu
+Cardiology, 41, Henry Jones, Pneumonia
+Cardiology, 96, Noah Smith, Flu
+Cardiology, 43, Oliver Morgan, Flu
+Neurology, 7, Anthony Martinez, Heart Failure
+Cardiology, 56, Ava Morgan, Pneumonia
+Therapy, 28, Henry Davis, Asthma
+Cardiology, 15, Oliver Winchester, Diabetes
+Pediatrics, 14, Elijah Morgan, Pneumonia
+Pediatrics, 73, James Davis, Heart Failure
+Surgery, 54, Henry Brown, Heart Failure
+Neurology, 72, Liam Winchester, Heart Failure
+Pediatrics, 83, Anthony Jones, Heart Failure
+Cardiology, 55, Violet Winchester, Asthma
+Surgery, 1, Oliver Davis, Pneumonia
+Cardiology, 47, Noah Jones, Pneumonia
+Neurology, 77, Charlotte Davis, Diabetes
+Pediatrics, 12, Olivia Jones, Asthma
+Cardiology, 91, Jane Jones, Pneumonia
+Surgery, 83, Jane Miller, Pneumonia
+Cardiology, 12, Oliver Winchester, Diabetes
+Cardiology, 99, Henry Jones, Pneumonia
+Neurology, 46, Sophia Williams, Flu
+Neurology, 30, Henry Garcia, Flu
+Cardiology, 23, Oliver Johnson, Flu
+Therapy, 49, Anthony Johnson, Diabetes
+Cardiology, 85, Ava Jones, Heart Failure
+Pediatrics, 6, Elijah Miller, Diabetes
+Therapy, 50, Jack Johnson, Diabetes
+Neurology, 47, Sophia Garcia, Asthma
+Cardiology, 94, Noah Williams, Heart Failure
+Therapy, 51, Noah Smith, Heart Failure
+Surgery, 70, Ava Doe, Heart Failure
+Cardiology, 92, Olivia Smith, Flu
+Therapy, 22, Emma Winchester, Heart Failure
+Cardiology, 82, Sam Garcia, Pneumonia
+Pediatrics, 100, Noah Martinez, Heart Failure
+Neurology, 96, Charlotte Johnson, Diabetes
+Neurology, 9, Charlotte Jones, Heart Failure
+Pediatrics, 45, Jack Rodriguez, Heart Failure
+Therapy, 50, Anthony Martinez, Pneumonia
+Surgery, 76, Ava Williams, Flu
+Cardiology, 14, Anthony Rodriguez, Flu
+Cardiology, 10, Charlotte Garcia, Flu
+Pediatrics, 30, Henry Williams, Diabetes
+Pediatrics, 54, Liam Winchester, Pneumonia
+Therapy, 16, Elijah Doe, Flu
+Neurology, 52, Anthony Rodriguez, Flu
+Pediatrics, 78, Henry Jones, Heart Failure
+Pediatrics, 31, Oliver Rodriguez, Pneumonia
+Pediatrics, 42, Olivia Garcia, Heart Failure
+Neurology, 32, Noah Jones, Diabetes
+Pediatrics, 61, Sam Williams, Asthma
+Therapy, 59, Olivia Winchester, Flu
+Pediatrics, 70, Ava Davis, Heart Failure
+Neurology, 67, Elijah Johnson, Diabetes
+Cardiology, 96, Noah Morgan, Asthma
+Therapy, 65, Olivia Rodriguez, Pneumonia
+Neurology, 46, Emma Jones, Heart Failure
+Pediatrics, 34, Anthony Garcia, Diabetes
+Therapy, 30, Elijah Martinez, Flu
+Neurology, 73, Sophia Miller, Diabetes
+Neurology, 91, Henry Morgan, Flu
+Surgery, 92, Sam Brown, Heart Failure
+Neurology, 4, Liam Johnson, Pneumonia
+Pediatrics, 49, Ava Martinez, Flu
+Therapy, 5, James Jones, Diabetes
+Surgery, 73, James Winchester, Flu
+Pediatrics, 81, Dean Johnson, Flu
+Cardiology, 4, Anthony Garcia, Heart Failure
+Neurology, 2, Sophia Smith, Flu
+Surgery, 84, Liam Smith, Flu
+Therapy, 78, Liam Davis, Pneumonia
+Cardiology, 60, Jack Williams, Diabetes
+Therapy, 80, James Davis, Flu
+Therapy, 86, Elijah Smith, Diabetes
+Therapy, 37, Emma Winchester, Flu
+Neurology, 94, Sam Smith, Diabetes
+Cardiology, 41, Oliver Garcia, Asthma
+Neurology, 56, Liam Winchester, Diabetes
+Surgery, 38, Olivia Brown, Diabetes
+Therapy, 42, Jane Johnson, Heart Failure
+Cardiology, 12, Jane Johnson, Diabetes
+Pediatrics, 41, Ava Davis, Heart Failure
+Neurology, 2, Olivia Doe, Diabetes
+Cardiology, 41, Ava Davis, Diabetes
+Therapy, 13, Emma Winchester, Flu
+Therapy, 31, Emma Doe, Pneumonia
+Therapy, 78, Ava Jones, Flu
+Neurology, 6, Henry Davis, Heart Failure
+Surgery, 40, Liam Doe, Diabetes
+Surgery, 15, Anthony Johnson, Heart Failure
+Cardiology, 18, Elijah Rodriguez, Asthma
+Neurology, 78, Ava Brown, Pneumonia
+Surgery, 87, Ava Rodriguez, Flu
+Cardiology, 86, Olivia Davis, Pneumonia
+Surgery, 71, James Davis, Flu
+Neurology, 78, Jane Davis, Diabetes
+Pediatrics, 68, Sam Miller, Heart Failure
+Pediatrics, 41, Elijah Johnson, Flu
+Cardiology, 24, Emma Morgan, Flu
+Cardiology, 52, Liam Jones, Asthma
+Pediatrics, 90, Ava Morgan, Flu
+Neurology, 88, Noah Garcia, Asthma
+Neurology, 87, Violet Morgan, Pneumonia
+Therapy, 95, Charlotte Davis, Pneumonia
+Therapy, 56, Elijah Davis, Heart Failure
+Cardiology, 75, Anthony Johnson, Diabetes
+Cardiology, 41, Henry Doe, Diabetes
+Neurology, 65, Oliver Johnson, Heart Failure
+Pediatrics, 20, Olivia Smith, Pneumonia
+Pediatrics, 9, Henry Garcia, Heart Failure
+Pediatrics, 5, Emma Williams, Pneumonia
+Neurology, 26, Henry Martinez, Pneumonia
+Therapy, 93, Oliver Morgan, Heart Failure
+Surgery, 81, Sam Rodriguez, Pneumonia
+Pediatrics, 12, Olivia Brown, Pneumonia
+Pediatrics, 16, Henry Miller, Heart Failure
+Therapy, 88, Liam Doe, Pneumonia
+Cardiology, 15, James Jones, Heart Failure
+Pediatrics, 26, Olivia Smith, Asthma
+Pediatrics, 71, Henry Winchester, Pneumonia
+Therapy, 66, Jack Johnson, Diabetes
+Pediatrics, 52, Dean Doe, Heart Failure
+Cardiology, 57, Elijah Miller, Flu
+Neurology, 72, Emma Davis, Asthma
+Neurology, 71, Violet Davis, Diabetes
+Therapy, 16, Dean Morgan, Asthma
+Surgery, 41, Elijah Williams, Pneumonia
+Cardiology, 58, Noah Jones, Asthma
+Cardiology, 23, James Martinez, Diabetes
+Pediatrics, 19, Sam Miller, Asthma
+Neurology, 73, Anthony Smith, Diabetes
+Surgery, 54, Noah Rodriguez, Pneumonia
+Pediatrics, 71, Emma Brown, Asthma
+Cardiology, 72, Sophia Morgan, Heart Failure
+Cardiology, 10, Dean Rodriguez, Pneumonia
+Pediatrics, 2, Anthony Winchester, Asthma
+Therapy, 25, Jack Garcia, Diabetes
+Neurology, 60, Olivia Doe, Pneumonia
+Pediatrics, 16, Emma Doe, Heart Failure
+Cardiology, 68, Oliver Morgan, Heart Failure
+Therapy, 15, Oliver Williams, Asthma
+Surgery, 5, Dean Winchester, Flu
+Therapy, 95, Henry Rodriguez, Asthma
+Cardiology, 83, Henry Jones, Pneumonia
+Pediatrics, 84, Sam Martinez, Flu
+Cardiology, 66, Sam Miller, Heart Failure
+Surgery, 45, Sam Winchester, Heart Failure
+Cardiology, 63, Jane Williams, Pneumonia
+Pediatrics, 65, Violet Smith, Heart Failure
+Surgery, 71, Dean Martinez, Pneumonia
+Therapy, 9, Olivia Jones, Heart Failure
+Therapy, 78, Emma Jones, Diabetes
+Neurology, 32, Dean Davis, Asthma
+Cardiology, 71, Elijah Davis, Heart Failure
+Therapy, 44, Sophia Johnson, Diabetes
+Cardiology, 45, Charlotte Winchester, Heart Failure
+Cardiology, 33, Henry Rodriguez, Heart Failure
+Surgery, 9, Emma Johnson, Asthma
+Cardiology, 79, Olivia Brown, Flu
+Cardiology, 64, Charlotte Rodriguez, Diabetes
+Neurology, 53, Charlotte Morgan, Asthma
+Therapy, 36, Noah Smith, Pneumonia
+Therapy, 38, Olivia Brown, Flu
+Cardiology, 99, Liam Johnson, Diabetes
+Cardiology, 60, Violet Davis, Diabetes
+Neurology, 53, Jane Williams, Asthma
+Neurology, 48, Emma Morgan, Diabetes
+Pediatrics, 74, Jane Winchester, Asthma
+Surgery, 51, Liam Jones, Flu
+Surgery, 58, Violet Davis, Flu
+Surgery, 77, Dean Winchester, Asthma
+Therapy, 64, Charlotte Miller, Flu
+Surgery, 29, Liam Winchester, Diabetes
+Therapy, 49, James Doe, Asthma
+Therapy, 15, Charlotte Smith, Heart Failure
+Surgery, 27, Charlotte Smith, Diabetes
+Cardiology, 25, Violet Johnson, Heart Failure
+Cardiology, 45, Sophia Williams, Heart Failure
+Surgery, 85, Emma Miller, Asthma
+Neurology, 50, Ava Martinez, Diabetes
+Pediatrics, 83, Oliver Williams, Diabetes
+Cardiology, 50, Liam Williams, Flu
+Surgery, 40, Sophia Jones, Heart Failure
+Neurology, 80, Jane Rodriguez, Asthma
+Therapy, 67, Jack Johnson, Pneumonia
+Surgery, 14, Oliver Miller, Diabetes
+Therapy, 1, Oliver Davis, Flu
+Pediatrics, 70, Anthony Miller, Heart Failure
+Surgery, 66, Elijah Smith, Flu
+Cardiology, 64, Sam Rodriguez, Heart Failure
+Therapy, 17, James Winchester, Pneumonia
+Therapy, 54, Ava Martinez, Asthma
+Neurology, 82, Ava Rodriguez, Pneumonia
+Therapy, 33, Olivia Smith, Asthma
+Therapy, 16, Olivia Smith, Flu
+Neurology, 48, Elijah Brown, Asthma
+Surgery, 68, Violet Jones, Flu
+Cardiology, 71, Violet Davis, Flu
+Neurology, 22, Anthony Martinez, Heart Failure
+Cardiology, 96, Jane Brown, Diabetes
+Therapy, 49, Emma Doe, Pneumonia
+Surgery, 42, Ava Smith, Asthma
+Surgery, 18, Jack Miller, Heart Failure
+Pediatrics, 52, Oliver Doe, Diabetes
+Cardiology, 97, Jack Doe, Asthma
+Surgery, 56, Jack Brown, Heart Failure
+Pediatrics, 56, Emma Rodriguez, Asthma
+Neurology, 89, Noah Garcia, Flu
+Therapy, 34, Oliver Miller, Diabetes
+Neurology, 41, Olivia Smith, Flu
+Surgery, 36, Dean Doe, Flu
+Cardiology, 89, Elijah Doe, Flu
+Cardiology, 9, Oliver Rodriguez, Heart Failure
+Neurology, 1, Anthony Miller, Pneumonia
+Surgery, 63, Charlotte Garcia, Asthma
+Surgery, 66, Elijah Smith, Heart Failure
+Pediatrics, 48, Sam Johnson, Asthma
+Pediatrics, 11, Henry Winchester, Heart Failure
+Neurology, 1, Elijah Smith, Diabetes
+Therapy, 87, Sam Miller, Diabetes
+Neurology, 25, Dean Garcia, Flu
+Therapy, 46, Noah Miller, Pneumonia
+Pediatrics, 66, Jack Rodriguez, Flu
+Pediatrics, 73, Sam Williams, Flu
+Therapy, 60, Emma Doe, Flu
+Neurology, 86, Jack Garcia, Flu
+Pediatrics, 83, Anthony Garcia, Pneumonia
+Therapy, 79, James Davis, Heart Failure
+Pediatrics, 19, Liam Jones, Flu
+Pediatrics, 29, Noah Brown, Asthma
+Therapy, 58, Charlotte Smith, Flu
+Cardiology, 96, Ava Garcia, Heart Failure
+Cardiology, 62, Anthony Miller, Diabetes
+Pediatrics, 33, Jane Miller, Pneumonia
+Cardiology, 97, Sophia Brown, Pneumonia
+Surgery, 82, Anthony Williams, Heart Failure
+Pediatrics, 9, Noah Doe, Heart Failure
+Pediatrics, 9, Anthony Garcia, Flu
+Cardiology, 89, Jane Doe, Diabetes
+Surgery, 89, James Smith, Pneumonia
+Neurology, 2, Anthony Williams, Heart Failure
+Pediatrics, 93, Elijah Doe, Asthma
+Neurology, 66, James Winchester, Asthma
+Surgery, 11, Violet Morgan, Diabetes
+Therapy, 18, Elijah Williams, Flu
+Neurology, 33, Noah Garcia, Pneumonia
+Cardiology, 45, Noah Martinez, Heart Failure
+Neurology, 3, Oliver Brown, Asthma
+Pediatrics, 64, Ava Garcia, Heart Failure
+Therapy, 6, James Martinez, Heart Failure
+Surgery, 16, Henry Johnson, Asthma
+Surgery, 1, Henry Doe, Diabetes
+Cardiology, 41, Noah Winchester, Diabetes
+Pediatrics, 12, Elijah Rodriguez, Flu
+Therapy, 16, Jane Jones, Diabetes
+Cardiology, 94, James Rodriguez, Diabetes
+Therapy, 33, Ava Rodriguez, Flu
+Neurology, 75, Sam Martinez, Asthma
+Cardiology, 77, Emma Rodriguez, Asthma
+Cardiology, 36, Jane Doe, Heart Failure
+Pediatrics, 24, Anthony Davis, Diabetes
+Neurology, 67, Henry Miller, Diabetes
+Pediatrics, 94, Sophia Morgan, Flu
+Neurology, 94, Olivia Miller, Pneumonia
+Pediatrics, 70, Elijah Rodriguez, Heart Failure
+Neurology, 75, Noah Jones, Asthma
+Pediatrics, 14, Sophia Morgan, Heart Failure
+Neurology, 86, Charlotte Winchester, Diabetes
+Therapy, 81, Elijah Brown, Flu
+Neurology, 100, Olivia Martinez, Asthma
+Neurology, 22, Oliver Smith, Heart Failure
+Neurology, 84, James Rodriguez, Asthma
+Therapy, 20, Ava Brown, Asthma
+Cardiology, 88, James Smith, Asthma
+Cardiology, 93, Henry Morgan, Asthma
+Therapy, 94, Sophia Jones, Heart Failure
+Neurology, 96, Emma Williams, Pneumonia
+Neurology, 44, Emma Garcia, Heart Failure
+Therapy, 39, Olivia Williams, Heart Failure
+Pediatrics, 48, James Brown, Asthma
+Therapy, 86, Elijah Brown, Flu
+Surgery, 55, Dean Martinez, Asthma
+Cardiology, 22, Violet Martinez, Pneumonia
+Neurology, 71, Violet Jones, Asthma
+Neurology, 18, Henry Davis, Flu
+Therapy, 14, Olivia Rodriguez, Flu
+Pediatrics, 10, Jack Winchester, Asthma
+Surgery, 61, Sophia Garcia, Heart Failure
+Therapy, 100, Jack Rodriguez, Asthma
+Therapy, 94, Sam Williams, Diabetes
+Pediatrics, 80, Oliver Winchester, Heart Failure
+Pediatrics, 78, Violet Garcia, Diabetes
+Neurology, 42, Jane Jones, Flu
+Cardiology, 27, Dean Garcia, Heart Failure
+Cardiology, 100, Henry Williams, Heart Failure
+Pediatrics, 35, Jack Morgan, Asthma
+Surgery, 57, Sophia Miller, Heart Failure
+Pediatrics, 74, Dean Miller, Pneumonia
+Therapy, 91, James Smith, Pneumonia
+Neurology, 78, Sam Martinez, Diabetes
+Cardiology, 3, Jane Jones, Flu
+Surgery, 54, Sophia Doe, Heart Failure
+Therapy, 83, Henry Martinez, Asthma
+Neurology, 46, Sophia Johnson, Pneumonia
+Therapy, 10, Jane Williams, Heart Failure
+Neurology, 12, Emma Winchester, Heart Failure
+Surgery, 38, Violet Winchester, Flu
+Neurology, 48, Ava Brown, Heart Failure
+Therapy, 41, Sam Rodriguez, Asthma
+Neurology, 74, Oliver Johnson, Asthma
+Pediatrics, 37, Noah Johnson, Heart Failure
+Neurology, 20, Oliver Williams, Diabetes
+Surgery, 24, Sophia Rodriguez, Flu
+Neurology, 33, Liam Morgan, Pneumonia
+Neurology, 50, Ava Williams, Diabetes
+Pediatrics, 60, Dean Johnson, Pneumonia
+Therapy, 36, Liam Morgan, Pneumonia
+Cardiology, 40, Henry Rodriguez, Asthma
+Pediatrics, 67, Elijah Miller, Pneumonia
+Neurology, 34, Jane Garcia, Heart Failure
+Neurology, 52, Sophia Morgan, Heart Failure
+Surgery, 76, Sophia Davis, Pneumonia
+Pediatrics, 44, Jane Miller, Diabetes
+Neurology, 77, Jack Johnson, Diabetes
+Neurology, 91, James Winchester, Diabetes
+Cardiology, 70, Sam Jones, Heart Failure
+Cardiology, 74, Noah Williams, Diabetes
+Neurology, 78, Henry Smith, Heart Failure
+Pediatrics, 52, Emma Martinez, Heart Failure
+Neurology, 28, Anthony Brown, Heart Failure
+Surgery, 79, Ava Doe, Heart Failure
+Therapy, 35, Jane Morgan, Flu
+Surgery, 11, Henry Williams, Heart Failure
+Surgery, 27, Ava Brown, Flu
+Surgery, 84, James Martinez, Flu
+Pediatrics, 84, James Miller, Diabetes
+Surgery, 93, Ava Morgan, Diabetes
+Neurology, 17, Anthony Rodriguez, Heart Failure
+Surgery, 80, Violet Rodriguez, Pneumonia
+Cardiology, 36, Noah Miller, Asthma
+Therapy, 37, Jane Johnson, Pneumonia
+Therapy, 17, Violet Rodriguez, Diabetes
+Neurology, 22, Violet Rodriguez, Heart Failure
+Surgery, 75, Ava Johnson, Heart Failure
+Pediatrics, 91, Sophia Winchester, Flu
+Therapy, 8, Noah Winchester, Heart Failure
+Pediatrics, 15, James Doe, Diabetes
+Neurology, 30, Liam Brown, Heart Failure
+Cardiology, 4, Ava Williams, Pneumonia
+Neurology, 25, Sophia Davis, Pneumonia
+Pediatrics, 9, Henry Brown, Pneumonia
+Cardiology, 28, Jane Smith, Pneumonia
+Therapy, 38, Oliver Davis, Heart Failure
+Pediatrics, 84, Anthony Miller, Heart Failure
+Neurology, 62, James Morgan, Diabetes
+Surgery, 41, Dean Brown, Flu
+Pediatrics, 55, Henry Morgan, Pneumonia
+Neurology, 74, Dean Smith, Flu
+Pediatrics, 14, Olivia Smith, Asthma
+Cardiology, 73, Henry Smith, Flu
+Neurology, 98, Sam Rodriguez, Pneumonia
+Surgery, 37, Henry Martinez, Asthma
+Neurology, 53, Dean Rodriguez, Pneumonia
+Surgery, 63, Dean Miller, Heart Failure
+Pediatrics, 26, Emma Martinez, Diabetes
+Cardiology, 52, James Jones, Diabetes
+Therapy, 85, Sophia Davis, Pneumonia
+Neurology, 4, Sophia Miller, Diabetes
+Therapy, 20, Sam Smith, Pneumonia
+Pediatrics, 70, Liam Jones, Pneumonia
+Cardiology, 82, Noah Doe, Flu
+Pediatrics, 35, Oliver Doe, Flu
+Cardiology, 92, Jack Johnson, Heart Failure
+Therapy, 58, Jane Winchester, Heart Failure
+Pediatrics, 21, Emma Miller, Pneumonia
+Cardiology, 74, Sam Rodriguez, Heart Failure
+Surgery, 26, Sam Morgan, Flu
+Cardiology, 24, Henry Davis, Diabetes
+Cardiology, 27, Dean Johnson, Flu
+Therapy, 82, Oliver Smith, Diabetes
+Pediatrics, 81, Emma Rodriguez, Heart Failure
+Cardiology, 20, Liam Rodriguez, Heart Failure
+Neurology, 69, Charlotte Winchester, Heart Failure
+Pediatrics, 51, Jane Miller, Diabetes
+Neurology, 15, Oliver Rodriguez, Asthma
+Pediatrics, 8, Charlotte Williams, Flu
+Pediatrics, 68, Anthony Brown, Pneumonia
+Neurology, 85, Noah Morgan, Diabetes
+Surgery, 61, Charlotte Jones, Asthma
+Neurology, 60, Sophia Jones, Diabetes
+Surgery, 16, James Jones, Diabetes
+Therapy, 57, Sam Miller, Flu
+Surgery, 33, Oliver Jones, Diabetes
+Neurology, 74, Violet Miller, Flu
+Surgery, 60, Dean Martinez, Pneumonia
+Neurology, 75, Violet Davis, Diabetes
+Pediatrics, 94, James Martinez, Diabetes
+Neurology, 67, Violet Brown, Pneumonia
+Therapy, 53, Charlotte Miller, Asthma
+Pediatrics, 41, James Johnson, Diabetes
+Therapy, 31, Violet Morgan, Flu
+Surgery, 20, Ava Winchester, Heart Failure
+Neurology, 77, Charlotte Davis, Flu
+Cardiology, 25, Liam Brown, Flu
+Neurology, 33, Dean Morgan, Pneumonia
+Neurology, 57, Charlotte Smith, Pneumonia
+Neurology, 93, Dean Smith, Pneumonia
+Pediatrics, 65, Olivia Doe, Heart Failure
+Neurology, 8, Sophia Martinez, Asthma
+Therapy, 90, Dean Davis, Flu
+Cardiology, 77, Dean Morgan, Pneumonia
+Neurology, 37, Elijah Brown, Flu
+Pediatrics, 33, Jane Doe, Asthma
+Surgery, 31, Emma Smith, Diabetes
+Therapy, 52, Emma Doe, Heart Failure
+Cardiology, 68, Jack Miller, Asthma
+Pediatrics, 8, Violet Jones, Flu
+Cardiology, 41, Henry Winchester, Diabetes
+Surgery, 71, Ava Davis, Pneumonia
+Pediatrics, 69, Liam Davis, Diabetes
+Therapy, 50, Jane Morgan, Flu
+Surgery, 82, Violet Smith, Pneumonia
+Cardiology, 40, Charlotte Doe, Pneumonia
+Neurology, 19, Anthony Brown, Asthma
+Pediatrics, 33, Elijah Winchester, Heart Failure
+Therapy, 23, Oliver Martinez, Diabetes
+Neurology, 7, James Brown, Heart Failure
+Surgery, 35, Anthony Smith, Asthma
+Pediatrics, 94, Oliver Smith, Pneumonia
+Surgery, 58, Henry Martinez, Diabetes
+Pediatrics, 82, James Morgan, Asthma
+Therapy, 24, Dean Rodriguez, Heart Failure
+Neurology, 86, Anthony Garcia, Asthma
+Pediatrics, 32, James Doe, Asthma
+Neurology, 90, Elijah Garcia, Flu
+Therapy, 1, Anthony Morgan, Heart Failure
+Therapy, 54, Violet Garcia, Diabetes
+Pediatrics, 42, Elijah Winchester, Asthma
+Therapy, 43, Dean Johnson, Flu
+Neurology, 71, Jack Davis, Pneumonia
+Therapy, 44, Sam Garcia, Asthma
+Therapy, 9, Sam Winchester, Pneumonia
+Surgery, 10, Noah Morgan, Diabetes
+Neurology, 46, Liam Doe, Pneumonia
+Neurology, 38, Anthony Williams, Pneumonia
+Pediatrics, 7, Henry Rodriguez, Diabetes
+Neurology, 48, James Williams, Heart Failure
+Cardiology, 63, Noah Johnson, Flu
+Pediatrics, 75, Jane Brown, Asthma
+Surgery, 83, Oliver Rodriguez, Flu
+Neurology, 45, Liam Brown, Heart Failure
+Neurology, 77, Charlotte Brown, Pneumonia
+Neurology, 11, Liam Davis, Heart Failure
+Therapy, 46, Charlotte Garcia, Flu
+Surgery, 78, Anthony Rodriguez, Heart Failure
+Cardiology, 10, James Johnson, Asthma
+Cardiology, 28, Liam Rodriguez, Flu
+Pediatrics, 87, James Morgan, Asthma
+Surgery, 13, Charlotte Williams, Flu
+Surgery, 48, Jack Miller, Asthma
+Therapy, 69, Violet Miller, Diabetes
+Pediatrics, 100, James Davis, Asthma
+Surgery, 79, Anthony Brown, Pneumonia
+Pediatrics, 87, Elijah Brown, Diabetes
+Pediatrics, 54, Sam Garcia, Diabetes
+Pediatrics, 19, Dean Martinez, Heart Failure
+Surgery, 24, Sam Morgan, Diabetes
+Pediatrics, 90, Emma Morgan, Flu
+Surgery, 57, Violet Martinez, Pneumonia
+Cardiology, 53, Anthony Davis, Flu
+Pediatrics, 98, Anthony Rodriguez, Asthma
+Neurology, 94, Oliver Johnson, Heart Failure
+Neurology, 70, Dean Doe, Diabetes
+Neurology, 45, Violet Winchester, Diabetes
+Surgery, 64, Ava Rodriguez, Pneumonia
+Therapy, 6, Jack Garcia, Pneumonia
+Neurology, 22, Jane Rodriguez, Heart Failure
+Cardiology, 95, Anthony Davis, Flu
+Neurology, 53, Olivia Morgan, Flu
+Neurology, 45, Henry Brown, Pneumonia
+Therapy, 31, Charlotte Rodriguez, Pneumonia
+Therapy, 68, James Davis, Flu
+Surgery, 55, Ava Rodriguez, Diabetes
+Therapy, 17, Oliver Martinez, Pneumonia
+Pediatrics, 97, Violet Martinez, Pneumonia
+Pediatrics, 11, Emma Jones, Pneumonia
+Pediatrics, 79, Violet Winchester, Asthma
+Neurology, 16, Henry Winchester, Diabetes
+Therapy, 84, Noah Martinez, Asthma
+Cardiology, 99, Charlotte Brown, Asthma
+Pediatrics, 60, Olivia Brown, Diabetes
+Neurology, 13, Noah Williams, Asthma
+Surgery, 7, Sam Doe, Diabetes
+Surgery, 98, Elijah Williams, Asthma
+Neurology, 87, Jack Rodriguez, Heart Failure
+Pediatrics, 60, Anthony Winchester, Flu
+Cardiology, 80, Emma Doe, Asthma
+Cardiology, 93, Ava Brown, Diabetes
+Neurology, 58, Sophia Jones, Diabetes
+Surgery, 3, Emma Doe, Asthma
+Surgery, 11, Elijah Williams, Asthma
+Pediatrics, 70, Ava Johnson, Heart Failure
+Cardiology, 31, Elijah Garcia, Flu
+Pediatrics, 33, James Martinez, Flu
+Surgery, 92, Noah Miller, Flu
+Surgery, 93, Anthony Jones, Heart Failure
+Surgery, 74, Noah Davis, Pneumonia
+Pediatrics, 25, James Miller, Flu
+Pediatrics, 41, Ava Davis, Diabetes
+Surgery, 89, Oliver Morgan, Diabetes
+Cardiology, 38, Charlotte Doe, Heart Failure
+Cardiology, 35, Emma Martinez, Heart Failure
+Pediatrics, 92, Oliver Garcia, Diabetes
+Pediatrics, 15, Sophia Martinez, Diabetes
+Neurology, 34, Noah Morgan, Diabetes
+Therapy, 21, Violet Martinez, Diabetes
+Therapy, 4, Liam Martinez, Heart Failure
+Therapy, 73, Charlotte Morgan, Heart Failure
+Pediatrics, 98, Noah Brown, Heart Failure
+Cardiology, 85, Olivia Brown, Flu
+Neurology, 61, Liam Winchester, Flu
+Cardiology, 48, Sam Jones, Asthma
+Pediatrics, 63, Sam Winchester, Asthma
+Cardiology, 15, Jack Garcia, Diabetes
+Therapy, 42, Emma Brown, Flu
+Cardiology, 84, Anthony Jones, Heart Failure
+Therapy, 98, Henry Smith, Asthma
+Neurology, 69, Emma Miller, Asthma
+Pediatrics, 89, Charlotte Jones, Heart Failure
+Neurology, 72, James Miller, Diabetes
+Surgery, 55, Dean Davis, Pneumonia
+Surgery, 69, Jack Martinez, Asthma
+Therapy, 29, Olivia Davis, Flu
+Cardiology, 15, Ava Doe, Asthma
+Cardiology, 34, Liam Rodriguez, Diabetes
+Surgery, 29, Violet Miller, Asthma
+Pediatrics, 33, Oliver Martinez, Diabetes
+Therapy, 28, Violet Miller, Flu
+Cardiology, 48, Sophia Morgan, Pneumonia
+Surgery, 13, Violet Johnson, Asthma
+Surgery, 7, Liam Smith, Heart Failure
+Cardiology, 11, Noah Garcia, Flu
+Cardiology, 74, Henry Morgan, Heart Failure
+Surgery, 73, Olivia Garcia, Heart Failure
+Neurology, 44, Dean Garcia, Heart Failure
+Surgery, 95, Elijah Morgan, Heart Failure
+Pediatrics, 14, James Jones, Heart Failure
+Therapy, 79, Sophia Johnson, Diabetes
+Neurology, 6, Olivia Morgan, Heart Failure
+Cardiology, 87, Noah Davis, Flu
+Pediatrics, 29, Noah Johnson, Pneumonia
+Pediatrics, 32, James Martinez, Heart Failure
+Cardiology, 74, Noah Doe, Diabetes
+Surgery, 9, Violet Johnson, Diabetes
+Surgery, 74, Emma Williams, Pneumonia
+Cardiology, 39, Charlotte Doe, Pneumonia
+Neurology, 42, Emma Winchester, Flu
+Therapy, 35, Liam Johnson, Pneumonia
+Cardiology, 30, Elijah Brown, Asthma
+Pediatrics, 61, Dean Morgan, Pneumonia
+Therapy, 32, Ava Winchester, Pneumonia
+Pediatrics, 12, Violet Brown, Flu
+Surgery, 36, Charlotte Williams, Heart Failure
+Surgery, 97, Charlotte Rodriguez, Diabetes
+Cardiology, 48, Emma Martinez, Diabetes
+Surgery, 18, Oliver Morgan, Pneumonia
+Cardiology, 74, Henry Rodriguez, Asthma
+Pediatrics, 6, Oliver Winchester, Pneumonia
+Neurology, 3, Sam Williams, Heart Failure
+Cardiology, 48, Anthony Doe, Pneumonia
+Pediatrics, 19, Ava Winchester, Heart Failure
+Neurology, 94, Ava Jones, Heart Failure
+Therapy, 56, Jane Brown, Diabetes
+Neurology, 3, Sophia Smith, Asthma
+Surgery, 1, Henry Williams, Pneumonia
+Cardiology, 7, Charlotte Williams, Flu
+Cardiology, 95, Henry Garcia, Diabetes
+Surgery, 39, Henry Miller, Flu
+Surgery, 77, Jane Doe, Asthma
+Cardiology, 96, James Johnson, Diabetes
+Pediatrics, 93, Oliver Doe, Diabetes
+Pediatrics, 30, Emma Miller, Diabetes
+Surgery, 68, Emma Rodriguez, Diabetes
+Pediatrics, 52, Emma Winchester, Asthma
+Neurology, 94, Henry Davis, Flu
+Pediatrics, 25, Dean Doe, Flu
+Therapy, 42, Violet Garcia, Flu
+Therapy, 73, Jane Smith, Diabetes
+Surgery, 66, Elijah Winchester, Heart Failure
+Surgery, 53, Jack Doe, Heart Failure
+Therapy, 75, Henry Rodriguez, Diabetes
+Pediatrics, 46, Olivia Jones, Heart Failure
+Neurology, 16, Anthony Winchester, Pneumonia
+Surgery, 100, Violet Jones, Flu
+Surgery, 55, Anthony Brown, Pneumonia
+Surgery, 73, Liam Martinez, Asthma
+Pediatrics, 62, Ava Martinez, Pneumonia
+Surgery, 9, Violet Williams, Heart Failure
+Therapy, 76, Sam Davis, Pneumonia
+Surgery, 55, Dean Johnson, Pneumonia
+Therapy, 55, Ava Brown, Pneumonia
+Neurology, 29, James Brown, Diabetes
+Surgery, 90, Violet Martinez, Pneumonia
+Surgery, 96, Charlotte Jones, Flu
+Surgery, 71, Charlotte Garcia, Pneumonia
+Neurology, 72, Elijah Miller, Asthma
+Neurology, 91, Elijah Brown, Flu
+Neurology, 66, Sam Davis, Flu
+Therapy, 3, Oliver Martinez, Heart Failure
+Therapy, 73, Henry Johnson, Diabetes
+Neurology, 19, Henry Johnson, Heart Failure
+Surgery, 12, Ava Davis, Diabetes
+Surgery, 84, Emma Martinez, Asthma
+Therapy, 76, Violet Doe, Diabetes
+Surgery, 16, Jane Smith, Diabetes
+Surgery, 66, Elijah Smith, Pneumonia
+Surgery, 54, Violet Garcia, Flu
+Pediatrics, 78, Jack Martinez, Flu
+Therapy, 45, Violet Rodriguez, Diabetes
+Therapy, 85, Sophia Johnson, Diabetes
+Cardiology, 36, Anthony Winchester, Heart Failure
+Therapy, 17, Liam Brown, Flu
+Pediatrics, 74, Sam Doe, Asthma
+Cardiology, 26, Jack Martinez, Heart Failure
+Cardiology, 50, James Smith, Pneumonia
+Therapy, 42, Charlotte Morgan, Heart Failure
+Cardiology, 54, James Martinez, Heart Failure
+Pediatrics, 64, Henry Doe, Flu
+Surgery, 9, Sophia Smith, Flu
+Surgery, 43, Noah Doe, Diabetes
+Pediatrics, 28, Emma Garcia, Pneumonia
+Surgery, 78, James Brown, Diabetes
+Pediatrics, 43, Sophia Doe, Diabetes
+Therapy, 11, Violet Miller, Flu
+Neurology, 35, Henry Williams, Asthma
+Therapy, 60, Anthony Smith, Asthma
+Therapy, 16, James Williams, Diabetes
+Therapy, 91, Sophia Winchester, Pneumonia
+Therapy, 30, Ava Williams, Diabetes
+Neurology, 83, Sam Morgan, Pneumonia
+Cardiology, 59, Jack Johnson, Diabetes
+Pediatrics, 100, James Martinez, Diabetes
+Neurology, 44, Elijah Williams, Flu
+Therapy, 87, Dean Williams, Heart Failure
+Pediatrics, 50, Olivia Smith, Flu
+Surgery, 89, Ava Jones, Diabetes
+Cardiology, 59, Ava Jones, Pneumonia
+Pediatrics, 1, Sophia Garcia, Asthma
+Therapy, 59, Elijah Johnson, Asthma
+Pediatrics, 90, Liam Brown, Flu
+Pediatrics, 65, Liam Morgan, Diabetes
+Pediatrics, 34, Charlotte Doe, Pneumonia
+Cardiology, 27, Olivia Jones, Pneumonia
+Cardiology, 78, Anthony Winchester, Pneumonia
+Pediatrics, 63, Sam Davis, Heart Failure
+Neurology, 99, Elijah Smith, Heart Failure
+Surgery, 2, Henry Smith, Asthma
+Surgery, 27, Dean Martinez, Flu
+Surgery, 41, Emma Williams, Diabetes
+Pediatrics, 78, Sam Garcia, Heart Failure
+Therapy, 12, Liam Smith, Asthma
+Pediatrics, 12, Henry Miller, Diabetes
+Therapy, 76, Jane Williams, Diabetes
+Surgery, 76, Liam Williams, Asthma
+Neurology, 55, Jane Johnson, Pneumonia
+Therapy, 37, Oliver Brown, Heart Failure
+Pediatrics, 30, Emma Brown, Asthma
+Neurology, 29, Liam Rodriguez, Heart Failure
+Therapy, 25, Violet Johnson, Flu
+Pediatrics, 36, Dean Jones, Diabetes
+Surgery, 82, Henry Garcia, Heart Failure
+Therapy, 62, Violet Smith, Heart Failure
+Pediatrics, 55, Dean Doe, Heart Failure
+Neurology, 66, Sam Garcia, Asthma
+Pediatrics, 65, Jack Brown, Heart Failure
+Therapy, 36, Noah Johnson, Diabetes
+Therapy, 62, Sam Smith, Diabetes
+Neurology, 30, Sophia Davis, Asthma
+Cardiology, 36, Noah Brown, Pneumonia
+Pediatrics, 93, Olivia Garcia, Heart Failure
+Therapy, 40, Elijah Jones, Asthma
+Surgery, 67, Sam Winchester, Asthma
+Therapy, 31, Violet Jones, Pneumonia
+Surgery, 17, Olivia Smith, Heart Failure
+Neurology, 19, Emma Johnson, Flu
+Surgery, 19, Elijah Winchester, Asthma
+Therapy, 81, Emma Rodriguez, Heart Failure
+Surgery, 64, Ava Martinez, Diabetes
+Cardiology, 36, Charlotte Martinez, Asthma
+Therapy, 71, Charlotte Garcia, Pneumonia
+Cardiology, 49, Olivia Morgan, Heart Failure
+Neurology, 58, Emma Morgan, Flu
+Neurology, 100, Charlotte Smith, Heart Failure
+Pediatrics, 24, Emma Williams, Asthma
+Cardiology, 84, Sophia Morgan, Pneumonia
+Surgery, 88, Noah Winchester, Diabetes
+Surgery, 70, Noah Williams, Flu
+Pediatrics, 70, Violet Jones, Heart Failure
+Pediatrics, 9, Elijah Miller, Diabetes
+Neurology, 52, James Williams, Diabetes
+Therapy, 36, Anthony Johnson, Flu
+Neurology, 89, Liam Miller, Heart Failure
+Therapy, 93, Emma Winchester, Asthma
+Surgery, 86, Emma Brown, Heart Failure
+Cardiology, 58, Sam Smith, Flu
+Neurology, 63, Elijah Davis, Pneumonia
+Surgery, 42, Liam Martinez, Diabetes
+Neurology, 54, Dean Morgan, Diabetes
+Pediatrics, 24, Liam Jones, Flu
+Pediatrics, 79, Jack Garcia, Diabetes
+Neurology, 11, Elijah Doe, Heart Failure
+Surgery, 49, Sam Winchester, Heart Failure
+Neurology, 96, Jane Doe, Heart Failure
+Surgery, 47, Sam Morgan, Pneumonia
+Therapy, 69, James Davis, Asthma
+Neurology, 95, Sam Winchester, Pneumonia
+Neurology, 72, Emma Morgan, Diabetes
+Pediatrics, 80, Elijah Davis, Asthma
+Surgery, 89, Violet Jones, Diabetes
+Neurology, 15, Ava Miller, Asthma
+Cardiology, 50, Anthony Rodriguez, Diabetes
+Therapy, 97, Oliver Johnson, Pneumonia
+Cardiology, 14, Noah Martinez, Flu
+Therapy, 34, Liam Smith, Diabetes
+Pediatrics, 78, Jack Winchester, Pneumonia
+Cardiology, 30, Sam Smith, Diabetes
+Therapy, 2, Jack Doe, Heart Failure
+Neurology, 73, Dean Morgan, Heart Failure
+Neurology, 25, James Davis, Heart Failure
+Neurology, 49, Olivia Garcia, Diabetes
+Therapy, 98, Olivia Jones, Diabetes
+Neurology, 25, Charlotte Morgan, Heart Failure
+Therapy, 1, Charlotte Martinez, Heart Failure
+Pediatrics, 97, Sam Martinez, Heart Failure
+Neurology, 48, Jack Williams, Heart Failure
+Cardiology, 52, Liam Martinez, Flu
+Surgery, 8, Dean Doe, Pneumonia
+Neurology, 68, Emma Morgan, Pneumonia
+Cardiology, 5, Sam Johnson, Pneumonia
+Therapy, 63, Dean Brown, Heart Failure
+Neurology, 29, James Johnson, Diabetes
+Therapy, 79, Sam Martinez, Flu
+Pediatrics, 45, Olivia Rodriguez, Flu
+Neurology, 80, Olivia Martinez, Pneumonia
+Pediatrics, 42, Jack Garcia, Diabetes
+Therapy, 70, Jane Morgan, Flu
+Therapy, 92, Ava Jones, Asthma
+Therapy, 14, Oliver Doe, Flu
+Neurology, 57, Liam Winchester, Flu
+Pediatrics, 70, Sophia Morgan, Asthma
+Neurology, 49, Oliver Morgan, Asthma
+Cardiology, 44, Emma Rodriguez, Flu
+Surgery, 37, Olivia Miller, Asthma
+Neurology, 62, Olivia Garcia, Heart Failure
+Therapy, 91, Sophia Morgan, Diabetes
+Pediatrics, 55, Jack Johnson, Heart Failure
+Therapy, 31, Henry Smith, Pneumonia
+Surgery, 4, Noah Morgan, Diabetes
+Pediatrics, 82, Sam Doe, Asthma
+Cardiology, 39, Jane Smith, Flu
+Pediatrics, 60, Anthony Martinez, Pneumonia
+Cardiology, 74, Jane Miller, Diabetes
+Neurology, 69, James Jones, Asthma
+Neurology, 35, Ava Winchester, Asthma
+Surgery, 95, Ava Rodriguez, Heart Failure
+Surgery, 32, Noah Doe, Pneumonia
+Surgery, 11, Anthony Martinez, Asthma
+Surgery, 5, Oliver Jones, Flu
+Neurology, 74, Ava Garcia, Diabetes
+Neurology, 1, Anthony Smith, Diabetes
+Therapy, 91, Anthony Morgan, Heart Failure
+Neurology, 91, Liam Johnson, Asthma
+Neurology, 8, Elijah Martinez, Pneumonia
+Neurology, 94, Elijah Winchester, Flu
+Cardiology, 8, Oliver Miller, Heart Failure
+Pediatrics, 78, Sophia Miller, Heart Failure
+Cardiology, 9, Sophia Morgan, Flu
+Cardiology, 36, Sam Doe, Asthma
+Pediatrics, 9, Ava Martinez, Heart Failure
+Cardiology, 32, Elijah Miller, Asthma
+Therapy, 25, Dean Rodriguez, Heart Failure
+Pediatrics, 2, Charlotte Doe, Heart Failure
+Neurology, 70, Noah Smith, Diabetes
+Cardiology, 66, Olivia Morgan, Heart Failure
+Neurology, 71, James Smith, Heart Failure
+Surgery, 80, Noah Rodriguez, Heart Failure
+Neurology, 94, Olivia Garcia, Heart Failure
+Pediatrics, 99, Jack Garcia, Heart Failure
+Therapy, 2, Henry Brown, Pneumonia
+Surgery, 89, Henry Smith, Diabetes
+Surgery, 13, Jack Williams, Diabetes
+Therapy, 93, Elijah Miller, Asthma
+Pediatrics, 76, Jack Jones, Pneumonia
+Pediatrics, 58, Charlotte Morgan, Asthma
+Neurology, 62, Anthony Winchester, Diabetes
+Neurology, 65, Elijah Doe, Asthma
+Neurology, 83, Oliver Martinez, Pneumonia
+Therapy, 77, Noah Williams, Asthma
+Surgery, 86, Elijah Martinez, Diabetes
+Neurology, 92, Emma Brown, Pneumonia
+Surgery, 10, Jane Johnson, Diabetes
+Therapy, 34, Sophia Williams, Pneumonia
+Surgery, 48, Sophia Brown, Pneumonia
+Neurology, 10, James Miller, Pneumonia
+Pediatrics, 4, Dean Rodriguez, Diabetes
+Therapy, 30, Anthony Davis, Pneumonia
+Therapy, 66, Sophia Smith, Flu
+Cardiology, 39, Dean Johnson, Asthma
+Therapy, 93, Liam Johnson, Asthma
+Cardiology, 6, Ava Morgan, Asthma
+Surgery, 100, Liam Miller, Pneumonia
+Cardiology, 6, Liam Doe, Heart Failure
+Cardiology, 88, Liam Garcia, Heart Failure
+Neurology, 21, Elijah Johnson, Pneumonia
+Surgery, 19, Sam Davis, Flu
+Pediatrics, 44, Jane Winchester, Asthma
+Neurology, 72, Noah Jones, Diabetes
+Therapy, 18, Sophia Garcia, Flu
+Neurology, 93, Charlotte Morgan, Asthma
+Surgery, 83, Jack Williams, Diabetes
+Cardiology, 96, Anthony Jones, Flu
+Therapy, 28, Jane Johnson, Diabetes
+Therapy, 55, Henry Smith, Pneumonia
+Neurology, 96, Oliver Johnson, Diabetes
+Neurology, 75, Anthony Davis, Flu
+Cardiology, 3, Emma Johnson, Pneumonia
+Pediatrics, 31, Charlotte Davis, Heart Failure
+Cardiology, 71, Jack Jones, Heart Failure
+Surgery, 90, Anthony Garcia, Asthma
+Surgery, 12, Noah Morgan, Asthma
+Cardiology, 35, Jane Williams, Asthma
+Pediatrics, 50, Emma Miller, Pneumonia
+Neurology, 43, Emma Rodriguez, Diabetes
+Surgery, 37, Jane Jones, Asthma
+Surgery, 1, Sam Martinez, Asthma
+Therapy, 77, Charlotte Rodriguez, Diabetes
+Therapy, 57, Olivia Morgan, Flu
+Surgery, 8, Jane Martinez, Heart Failure
+Cardiology, 16, Liam Brown, Heart Failure
+Neurology, 10, Sam Doe, Heart Failure
+Therapy, 81, Elijah Martinez, Flu
+Cardiology, 59, Oliver Rodriguez, Heart Failure
+Surgery, 89, Anthony Winchester, Diabetes
+Neurology, 33, Henry Johnson, Flu
+Therapy, 23, Henry Brown, Heart Failure
+Cardiology, 64, Oliver Jones, Pneumonia
+Neurology, 46, Oliver Smith, Asthma
+Pediatrics, 6, Violet Morgan, Pneumonia
+Cardiology, 76, Sophia Doe, Heart Failure
+Cardiology, 20, Ava Winchester, Pneumonia
+Cardiology, 79, Jane Garcia, Asthma
+Surgery, 19, Olivia Miller, Asthma
+Neurology, 13, Sam Morgan, Diabetes
+Therapy, 18, Henry Johnson, Asthma
+Surgery, 88, Dean Jones, Heart Failure
+Surgery, 12, Henry Doe, Flu
+Therapy, 22, Ava Martinez, Flu
+Pediatrics, 81, Charlotte Davis, Heart Failure
+Pediatrics, 8, Ava Johnson, Heart Failure
+Pediatrics, 39, Noah Davis, Flu
+Pediatrics, 86, Noah Winchester, Flu
+Therapy, 19, Sam Rodriguez, Diabetes
+Neurology, 81, Noah Morgan, Diabetes
+Cardiology, 42, James Rodriguez, Diabetes
+Therapy, 12, Sam Smith, Flu
+Therapy, 4, Ava Williams, Asthma
+Cardiology, 52, Anthony Garcia, Asthma
+Surgery, 60, Olivia Johnson, Asthma
+Neurology, 9, James Rodriguez, Pneumonia
+Neurology, 23, Charlotte Williams, Asthma
+Surgery, 86, Oliver Rodriguez, Heart Failure
+Pediatrics, 92, Jack Doe, Flu
+Therapy, 43, Elijah Miller, Flu
+Therapy, 82, Emma Miller, Flu
+Surgery, 88, Olivia Davis, Flu
+Surgery, 74, Charlotte Martinez, Diabetes
+Neurology, 57, Sophia Garcia, Diabetes
+Pediatrics, 13, Liam Miller, Asthma
+Therapy, 34, Liam Winchester, Heart Failure
+Therapy, 11, Liam Martinez, Asthma
+Cardiology, 2, Jane Williams, Flu
+Therapy, 78, Violet Rodriguez, Asthma
+Surgery, 45, Olivia Williams, Flu
+Cardiology, 17, Liam Garcia, Flu
+Pediatrics, 95, Jack Miller, Flu
+Therapy, 65, Henry Martinez, Diabetes
+Neurology, 13, Henry Winchester, Pneumonia
+Surgery, 70, James Rodriguez, Diabetes
+Neurology, 30, Oliver Jones, Heart Failure
+Cardiology, 50, Anthony Morgan, Heart Failure
+Cardiology, 50, Olivia Garcia, Asthma
+Therapy, 24, Jack Doe, Diabetes
+Therapy, 53, Elijah Garcia, Pneumonia
+Cardiology, 19, Charlotte Brown, Flu
+Neurology, 68, Elijah Morgan, Diabetes
+Surgery, 87, Violet Winchester, Diabetes
+Therapy, 63, Sam Davis, Flu
+Cardiology, 48, Jane Williams, Pneumonia
+Therapy, 27, James Williams, Flu
+Surgery, 55, Jane Jones, Heart Failure
+Cardiology, 40, Olivia Martinez, Pneumonia
+Cardiology, 18, Sophia Jones, Flu
+Therapy, 39, Liam Winchester, Flu
+Cardiology, 69, Henry Garcia, Heart Failure
+Pediatrics, 35, Sophia Miller, Pneumonia
+Pediatrics, 88, Jane Morgan, Flu
+Pediatrics, 77, Emma Jones, Pneumonia
+Therapy, 7, Charlotte Garcia, Heart Failure
+Surgery, 86, Jack Doe, Asthma
+Pediatrics, 19, Anthony Brown, Asthma
+Cardiology, 9, Sam Miller, Pneumonia
+Therapy, 69, James Doe, Diabetes
+Cardiology, 45, Ava Martinez, Flu
+Neurology, 98, Liam Miller, Flu
+Surgery, 14, Emma Morgan, Asthma
+Neurology, 26, Oliver Davis, Heart Failure
+Cardiology, 43, Noah Smith, Asthma
+Neurology, 4, Henry Doe, Asthma
+Neurology, 93, Jane Winchester, Heart Failure
+Cardiology, 56, Ava Davis, Asthma
+Surgery, 12, Emma Morgan, Heart Failure
+Cardiology, 64, Emma Martinez, Pneumonia
+Pediatrics, 96, Jack Brown, Pneumonia
+Therapy, 97, Henry Johnson, Heart Failure
+Pediatrics, 44, Anthony Jones, Flu
+Surgery, 57, Emma Smith, Heart Failure
+Pediatrics, 36, Elijah Davis, Asthma
+Surgery, 51, Violet Doe, Flu
+Pediatrics, 48, Emma Jones, Flu
+Neurology, 95, Dean Doe, Diabetes
+Surgery, 12, Liam Rodriguez, Asthma
+Surgery, 34, Anthony Davis, Heart Failure
+Pediatrics, 61, Emma Doe, Flu
+Neurology, 100, Olivia Garcia, Heart Failure
+Pediatrics, 6, Olivia Doe, Pneumonia
+Pediatrics, 42, Noah Doe, Heart Failure
+Therapy, 15, Charlotte Johnson, Heart Failure
+Therapy, 84, James Garcia, Asthma
+Neurology, 42, Violet Davis, Flu
+Neurology, 59, Henry Rodriguez, Flu
+Pediatrics, 65, Henry Williams, Asthma
+Cardiology, 42, Emma Rodriguez, Pneumonia
+Cardiology, 91, Olivia Winchester, Asthma
+Surgery, 75, Jane Johnson, Pneumonia
+Pediatrics, 45, Elijah Martinez, Diabetes
+Therapy, 73, Olivia Brown, Pneumonia
+Therapy, 56, Henry Smith, Flu
+Neurology, 20, Jane Winchester, Heart Failure
+Cardiology, 60, Jane Jones, Heart Failure
+Cardiology, 44, Elijah Johnson, Diabetes
+Neurology, 99, Olivia Davis, Heart Failure
+Therapy, 53, Liam Garcia, Flu
+Pediatrics, 33, Oliver Davis, Flu
+Surgery, 37, Oliver Garcia, Flu
+Neurology, 98, Sam Smith, Asthma
+Therapy, 32, Sophia Martinez, Diabetes
+Surgery, 67, Henry Doe, Asthma
+Cardiology, 35, Sophia Doe, Pneumonia
+Pediatrics, 95, Sophia Smith, Diabetes
+Surgery, 12, Violet Smith, Pneumonia
+Cardiology, 54, Violet Garcia, Diabetes
+Neurology, 87, Elijah Winchester, Asthma
+Therapy, 10, Emma Williams, Asthma
+Neurology, 17, Jack Miller, Asthma
+Therapy, 35, Noah Brown, Pneumonia
+Therapy, 71, Jane Doe, Flu
+Pediatrics, 13, Jack Jones, Flu
+Therapy, 2, Ava Davis, Flu
+Pediatrics, 85, Olivia Davis, Pneumonia
+Neurology, 31, Sophia Davis, Asthma
+Surgery, 100, Jane Johnson, Heart Failure
+Pediatrics, 9, Charlotte Martinez, Asthma
+Cardiology, 16, Henry Winchester, Asthma
+Neurology, 65, Noah Johnson, Asthma
+Cardiology, 92, Elijah Doe, Pneumonia
+Cardiology, 83, Charlotte Williams, Heart Failure
+Therapy, 100, Elijah Smith, Flu
+Pediatrics, 84, Sam Williams, Diabetes
+Therapy, 6, Sophia Morgan, Diabetes
+Neurology, 74, James Doe, Pneumonia
+Pediatrics, 78, Noah Rodriguez, Diabetes
+Pediatrics, 50, Jack Jones, Asthma
+Surgery, 94, Charlotte Rodriguez, Flu
+Cardiology, 22, Noah Jones, Diabetes
+Cardiology, 90, Noah Rodriguez, Heart Failure
+Surgery, 89, Violet Winchester, Diabetes
+Neurology, 9, Sam Williams, Flu
+Therapy, 94, Noah Rodriguez, Asthma
+Surgery, 75, Dean Miller, Diabetes
+Surgery, 12, Noah Brown, Diabetes
+Cardiology, 93, Olivia Doe, Pneumonia
+Neurology, 70, Dean Williams, Flu
+Therapy, 77, Jack Doe, Asthma
+Therapy, 90, Violet Garcia, Diabetes
+Surgery, 86, Jane Garcia, Pneumonia
+Pediatrics, 1, Anthony Smith, Diabetes
+Therapy, 47, Olivia Morgan, Pneumonia
+Cardiology, 8, Elijah Williams, Asthma
+Cardiology, 20, Ava Davis, Diabetes
+Neurology, 80, Sam Garcia, Pneumonia
+Neurology, 94, Violet Doe, Asthma
+Therapy, 45, Sophia Smith, Asthma
+Neurology, 73, Sam Davis, Flu
+Neurology, 86, Charlotte Rodriguez, Asthma
+Neurology, 99, Dean Smith, Pneumonia
+Cardiology, 40, Olivia Miller, Pneumonia
+Surgery, 22, Sophia Johnson, Diabetes
+Therapy, 77, Sophia Davis, Pneumonia
+Surgery, 3, Elijah Martinez, Diabetes
+Cardiology, 36, Sam Garcia, Flu
+Neurology, 4, Noah Winchester, Pneumonia
+Surgery, 16, Oliver Morgan, Diabetes
+Therapy, 81, Jane Smith, Heart Failure
+Pediatrics, 67, Jane Davis, Diabetes
+Pediatrics, 68, Oliver Garcia, Pneumonia
+Pediatrics, 22, Violet Rodriguez, Asthma
+Therapy, 51, Olivia Morgan, Pneumonia
+Pediatrics, 5, James Williams, Flu
+Surgery, 88, Elijah Smith, Diabetes
+Therapy, 11, Henry Winchester, Heart Failure
+Pediatrics, 12, Olivia Martinez, Pneumonia
+Pediatrics, 79, Charlotte Rodriguez, Heart Failure
+Cardiology, 5, Anthony Winchester, Heart Failure
+Cardiology, 23, Dean Davis, Heart Failure
+Cardiology, 97, Oliver Morgan, Diabetes
+Pediatrics, 76, Dean Doe, Pneumonia
+Neurology, 47, Sophia Doe, Asthma
+Therapy, 42, Henry Johnson, Flu
+Therapy, 57, Charlotte Morgan, Asthma
+Pediatrics, 66, Ava Johnson, Pneumonia
+Pediatrics, 76, Jane Rodriguez, Flu
+Pediatrics, 57, Olivia Garcia, Flu
+Pediatrics, 1, Anthony Martinez, Heart Failure
+Surgery, 43, Sophia Martinez, Heart Failure
+Surgery, 77, Violet Doe, Heart Failure
+Neurology, 88, Emma Winchester, Heart Failure
+Cardiology, 39, Jack Johnson, Flu
+Therapy, 68, Dean Rodriguez, Flu
+Neurology, 81, Sam Morgan, Heart Failure
+Surgery, 72, Violet Jones, Heart Failure
+Pediatrics, 75, Sam Brown, Pneumonia
+Pediatrics, 34, Noah Martinez, Heart Failure
+Therapy, 54, Sophia Brown, Flu
+Cardiology, 27, Noah Davis, Diabetes
+Neurology, 37, James Johnson, Pneumonia
+Pediatrics, 78, Elijah Morgan, Diabetes
+Pediatrics, 71, Oliver Garcia, Asthma
+Cardiology, 30, Olivia Doe, Heart Failure
+Cardiology, 98, Olivia Winchester, Pneumonia
+Therapy, 21, Ava Miller, Flu
+Neurology, 9, Sam Garcia, Pneumonia
+Pediatrics, 54, Charlotte Smith, Flu
+Pediatrics, 38, Sophia Morgan, Flu
+Surgery, 80, Elijah Davis, Diabetes
+Surgery, 7, Ava Winchester, Asthma
+Pediatrics, 63, Anthony Davis, Pneumonia
+Neurology, 37, Jane Garcia, Pneumonia
+Surgery, 94, Emma Williams, Flu
+Surgery, 95, Noah Smith, Heart Failure
+Neurology, 76, Ava Miller, Diabetes
+Surgery, 5, Henry Williams, Heart Failure
+Neurology, 65, Noah Rodriguez, Heart Failure
+Neurology, 81, Sam Davis, Heart Failure
+Pediatrics, 70, Dean Doe, Asthma
+Pediatrics, 70, Violet Morgan, Pneumonia
+Neurology, 27, Jane Rodriguez, Asthma
+Surgery, 36, Henry Johnson, Heart Failure
+Therapy, 82, Liam Martinez, Heart Failure
+Pediatrics, 83, Charlotte Winchester, Flu
+Neurology, 34, Violet Jones, Asthma
+Pediatrics, 37, Liam Brown, Asthma
+Neurology, 37, Sam Martinez, Diabetes
+Neurology, 8, Oliver Davis, Asthma
+Surgery, 53, Noah Davis, Asthma
+Neurology, 23, James Rodriguez, Diabetes
+Surgery, 18, Liam Garcia, Diabetes
+Cardiology, 58, Sophia Winchester, Flu
+Neurology, 24, Sophia Doe, Asthma
+Pediatrics, 20, Charlotte Garcia, Heart Failure
+Surgery, 73, Jane Garcia, Pneumonia
+Neurology, 9, Olivia Davis, Flu
+Surgery, 23, Olivia Brown, Asthma
+Surgery, 19, Charlotte Smith, Flu
+Therapy, 77, Emma Davis, Flu
+Surgery, 81, Dean Winchester, Flu
+Therapy, 46, Noah Miller, Diabetes
+Pediatrics, 61, Anthony Johnson, Diabetes
+Neurology, 3, James Johnson, Flu
+Surgery, 31, Jane Davis, Flu
+Cardiology, 59, Olivia Morgan, Diabetes
+Surgery, 54, Emma Smith, Pneumonia
+Pediatrics, 25, Violet Rodriguez, Diabetes
+Therapy, 3, Henry Davis, Heart Failure
+Therapy, 58, Olivia Garcia, Heart Failure
+Therapy, 67, Violet Morgan, Diabetes
+Neurology, 46, Emma Doe, Heart Failure
+Pediatrics, 77, Anthony Brown, Pneumonia
+Neurology, 58, Dean Miller, Heart Failure
+Cardiology, 30, Ava Morgan, Flu
+Cardiology, 96, James Doe, Heart Failure
+Surgery, 33, Sam Martinez, Heart Failure
+Pediatrics, 8, Elijah Morgan, Diabetes
+Cardiology, 63, Elijah Rodriguez, Heart Failure
+Surgery, 41, Olivia Rodriguez, Asthma
+Cardiology, 31, Noah Johnson, Flu
+Pediatrics, 97, Sophia Rodriguez, Pneumonia
+Therapy, 5, Dean Jones, Pneumonia
+Cardiology, 49, Olivia Winchester, Flu
+Cardiology, 9, Olivia Davis, Diabetes
+Surgery, 6, Olivia Garcia, Heart Failure
+Surgery, 79, Elijah Doe, Diabetes
+Therapy, 76, Oliver Smith, Pneumonia
+Pediatrics, 13, Olivia Morgan, Diabetes
+Cardiology, 93, James Doe, Diabetes
+Surgery, 70, Henry Williams, Flu
+Therapy, 54, Liam Rodriguez, Heart Failure
+Pediatrics, 35, James Garcia, Diabetes
+Pediatrics, 69, Noah Davis, Diabetes
+Therapy, 82, Elijah Morgan, Pneumonia
+Pediatrics, 25, James Davis, Heart Failure
+Therapy, 41, Violet Miller, Asthma
+Surgery, 46, Olivia Rodriguez, Heart Failure
+Surgery, 37, Jane Winchester, Asthma
+Therapy, 54, Charlotte Jones, Flu
+Cardiology, 15, Ava Johnson, Diabetes
+Therapy, 20, Dean Jones, Asthma
+Neurology, 25, Henry Davis, Pneumonia
+Cardiology, 23, Violet Johnson, Heart Failure
+Therapy, 47, Oliver Davis, Asthma
+Surgery, 12, Jane Miller, Asthma
+Cardiology, 59, Charlotte Williams, Pneumonia
+Pediatrics, 62, Noah Rodriguez, Diabetes
+Surgery, 24, Olivia Davis, Pneumonia
+Pediatrics, 31, Henry Jones, Heart Failure
+Pediatrics, 12, Jane Morgan, Diabetes
+Cardiology, 65, Liam Morgan, Heart Failure
+Neurology, 84, Jack Doe, Heart Failure
+Therapy, 10, Elijah Martinez, Diabetes
+Surgery, 19, Emma Doe, Asthma
+Surgery, 32, James Doe, Asthma
+Surgery, 59, Charlotte Brown, Pneumonia
+Cardiology, 41, Henry Miller, Pneumonia
+Cardiology, 84, Olivia Williams, Pneumonia
+Neurology, 92, Anthony Williams, Flu
+Therapy, 16, Anthony Morgan, Pneumonia
+Neurology, 28, Charlotte Martinez, Heart Failure
+Surgery, 99, Jane Davis, Diabetes
+Surgery, 16, Jane Jones, Asthma
+Surgery, 14, Emma Martinez, Pneumonia
+Surgery, 13, Emma Johnson, Diabetes
+Pediatrics, 59, Ava Jones, Flu
+Cardiology, 66, James Winchester, Diabetes
+Cardiology, 47, Sophia Johnson, Diabetes
+Therapy, 36, Anthony Davis, Asthma
+Pediatrics, 22, Henry Doe, Heart Failure
+Pediatrics, 62, Olivia Morgan, Flu
+Neurology, 42, Olivia Jones, Heart Failure
+Cardiology, 96, Sam Garcia, Heart Failure
+Pediatrics, 77, Sophia Smith, Pneumonia
+Pediatrics, 14, Anthony Williams, Asthma
+Pediatrics, 27, Olivia Rodriguez, Diabetes
+Neurology, 41, Liam Martinez, Asthma
+Surgery, 58, Sophia Jones, Flu
+Pediatrics, 57, Ava Davis, Heart Failure
+Therapy, 11, Sam Williams, Flu
+Surgery, 37, Noah Williams, Diabetes
+Pediatrics, 93, Emma Winchester, Asthma
+Neurology, 83, Oliver Garcia, Pneumonia
+Surgery, 40, Olivia Davis, Diabetes
+Therapy, 31, Emma Martinez, Diabetes
+Cardiology, 87, Jane Smith, Pneumonia
+Pediatrics, 31, Henry Smith, Pneumonia
+Neurology, 5, James Martinez, Pneumonia
+Therapy, 91, Anthony Garcia, Pneumonia
+Neurology, 48, Oliver Winchester, Pneumonia
+Pediatrics, 73, Liam Garcia, Flu
+Pediatrics, 63, Elijah Miller, Diabetes
+Neurology, 60, Oliver Smith, Asthma
+Neurology, 13, James Smith, Diabetes
+Therapy, 45, Oliver Johnson, Diabetes
+Neurology, 15, Sam Williams, Diabetes
+Cardiology, 80, Jack Brown, Heart Failure
+Therapy, 4, Anthony Brown, Heart Failure
+Surgery, 61, Ava Brown, Asthma
+Pediatrics, 82, James Jones, Asthma
+Neurology, 55, Sophia Davis, Asthma
+Cardiology, 96, Dean Martinez, Flu
+Surgery, 91, Liam Garcia, Pneumonia
+Therapy, 41, Ava Smith, Asthma
+Neurology, 44, Oliver Davis, Flu
+Surgery, 29, Charlotte Winchester, Asthma
+Neurology, 42, Jane Brown, Asthma
+Therapy, 76, Elijah Davis, Pneumonia
+Pediatrics, 89, Sam Johnson, Diabetes
+Pediatrics, 91, Violet Garcia, Pneumonia
+Neurology, 68, Oliver Smith, Asthma
+Neurology, 83, Liam Winchester, Pneumonia
+Surgery, 66, Emma Morgan, Asthma
+Cardiology, 67, Violet Winchester, Asthma
+Pediatrics, 73, Noah Winchester, Heart Failure
+Neurology, 36, Olivia Martinez, Heart Failure
+Cardiology, 50, Anthony Miller, Diabetes
+Cardiology, 30, Charlotte Martinez, Pneumonia
+Cardiology, 78, Violet Morgan, Asthma
+Therapy, 25, Anthony Miller, Pneumonia
+Pediatrics, 46, Emma Miller, Asthma
+Therapy, 82, Sophia Rodriguez, Diabetes
+Surgery, 66, James Williams, Flu
+Pediatrics, 81, Sophia Martinez, Asthma
+Pediatrics, 16, Jack Miller, Heart Failure
+Therapy, 99, Sophia Miller, Heart Failure
+Therapy, 73, James Brown, Flu
+Surgery, 41, Olivia Davis, Diabetes
+Cardiology, 66, Liam Johnson, Asthma
+Neurology, 46, Olivia Miller, Heart Failure
+Cardiology, 7, Ava Williams, Heart Failure
+Cardiology, 20, Noah Winchester, Flu
+Cardiology, 3, Sophia Williams, Flu
+Surgery, 76, Sam Jones, Diabetes
+Surgery, 40, James Rodriguez, Diabetes
+Cardiology, 86, Anthony Smith, Flu
+Neurology, 2, Olivia Winchester, Pneumonia
+Surgery, 1, Violet Garcia, Asthma
+Cardiology, 45, Emma Rodriguez, Flu
+Pediatrics, 8, Elijah Miller, Heart Failure
+Cardiology, 71, Charlotte Davis, Flu
+Pediatrics, 81, Elijah Garcia, Flu
+Neurology, 26, Violet Winchester, Asthma
+Pediatrics, 3, Jane Morgan, Asthma
+Surgery, 9, Dean Morgan, Heart Failure
+Cardiology, 68, Jane Miller, Pneumonia
+Cardiology, 100, Elijah Morgan, Diabetes
+Neurology, 52, Jack Johnson, Heart Failure
+Therapy, 87, Dean Garcia, Pneumonia
+Neurology, 47, Emma Davis, Pneumonia
+Pediatrics, 12, Liam Miller, Flu
+Surgery, 29, Jack Winchester, Diabetes
+Therapy, 63, Sam Winchester, Diabetes
+Pediatrics, 31, Elijah Jones, Diabetes
+Cardiology, 15, Anthony Martinez, Asthma
+Therapy, 21, Liam Doe, Heart Failure
+Pediatrics, 38, Jack Garcia, Flu
+Neurology, 13, Jane Davis, Diabetes
+Pediatrics, 18, Violet Johnson, Heart Failure
+Neurology, 42, Violet Williams, Pneumonia
+Cardiology, 33, Elijah Martinez, Asthma
+Neurology, 70, Sophia Davis, Diabetes
+Surgery, 18, Sam Garcia, Flu
+Therapy, 98, Violet Morgan, Asthma
+Pediatrics, 31, Liam Johnson, Diabetes
+Surgery, 93, Jack Martinez, Heart Failure
+Therapy, 30, Olivia Rodriguez, Pneumonia
+Surgery, 66, Noah Winchester, Asthma
+Cardiology, 12, Sophia Winchester, Asthma
+Cardiology, 71, James Garcia, Diabetes
+Surgery, 34, Jack Davis, Flu
+Neurology, 71, Anthony Winchester, Asthma
+Therapy, 13, Henry Martinez, Asthma
+Pediatrics, 92, Liam Winchester, Diabetes
+Neurology, 28, Ava Jones, Heart Failure
+Surgery, 95, Noah Williams, Flu
+Neurology, 70, Charlotte Brown, Pneumonia
+Cardiology, 79, Ava Williams, Diabetes
+Cardiology, 81, Sam Johnson, Flu
+Cardiology, 66, Anthony Jones, Asthma
+Cardiology, 18, Anthony Smith, Heart Failure
+Therapy, 21, Liam Johnson, Diabetes
+Neurology, 34, Olivia Martinez, Diabetes
+Cardiology, 76, Anthony Williams, Pneumonia
+Surgery, 56, Elijah Morgan, Heart Failure
+Cardiology, 8, Dean Morgan, Pneumonia
+Therapy, 68, Sam Winchester, Heart Failure
+Neurology, 62, James Miller, Flu
+Pediatrics, 42, Jane Miller, Flu
+Pediatrics, 92, Anthony Johnson, Heart Failure
+Cardiology, 73, Henry Miller, Pneumonia
+Therapy, 8, Ava Jones, Heart Failure
+Pediatrics, 75, Sophia Morgan, Flu
+Cardiology, 75, Dean Morgan, Pneumonia
+Therapy, 8, Dean Morgan, Asthma
+Pediatrics, 37, Henry Miller, Pneumonia
+Neurology, 56, Noah Miller, Diabetes
+Therapy, 33, Sam Garcia, Asthma
+Neurology, 10, Jack Johnson, Flu
+Cardiology, 57, Sophia Winchester, Flu
+Pediatrics, 88, Dean Johnson, Pneumonia
+Surgery, 29, Violet Smith, Diabetes
+Surgery, 34, Violet Brown, Asthma
+Surgery, 57, Elijah Miller, Asthma
+Therapy, 98, Jane Miller, Heart Failure
+Therapy, 95, Sam Martinez, Pneumonia
+Pediatrics, 31, James Jones, Pneumonia
+Cardiology, 45, Oliver Williams, Asthma
+Neurology, 6, Sophia Winchester, Pneumonia
+Neurology, 87, Sam Davis, Flu
+Pediatrics, 88, Henry Garcia, Diabetes
+Surgery, 69, James Jones, Diabetes
+Therapy, 30, Charlotte Williams, Diabetes
+Surgery, 91, Sam Garcia, Asthma
+Surgery, 49, Violet Williams, Pneumonia
+Therapy, 81, Anthony Rodriguez, Heart Failure
+Pediatrics, 70, Jane Garcia, Pneumonia
+Surgery, 93, Jane Davis, Diabetes
+Pediatrics, 10, Jack Johnson, Heart Failure
+Therapy, 22, Anthony Winchester, Pneumonia
+Therapy, 11, Emma Smith, Flu
+Therapy, 22, Sophia Brown, Flu
+Pediatrics, 63, Ava Winchester, Pneumonia
+Surgery, 78, Sophia Miller, Diabetes
+Pediatrics, 100, Violet Rodriguez, Asthma
+Therapy, 84, Noah Doe, Flu
+Cardiology, 76, Ava Miller, Heart Failure
+Surgery, 56, Emma Morgan, Asthma
+Therapy, 25, Noah Winchester, Heart Failure
+Pediatrics, 56, James Martinez, Asthma
+Cardiology, 40, Emma Garcia, Pneumonia
+Neurology, 59, Liam Winchester, Pneumonia
+Pediatrics, 88, Sam Smith, Diabetes
+Surgery, 5, Jane Miller, Heart Failure
+Pediatrics, 66, Sophia Johnson, Asthma
+Cardiology, 78, Jane Rodriguez, Heart Failure
+Neurology, 19, Dean Winchester, Pneumonia
+Surgery, 27, Violet Rodriguez, Flu
+Neurology, 6, Violet Garcia, Flu
+Neurology, 54, Henry Williams, Pneumonia
+Surgery, 35, Charlotte Morgan, Asthma
+Cardiology, 97, Sophia Martinez, Pneumonia
+Pediatrics, 33, Jack Morgan, Diabetes
+Neurology, 17, Elijah Winchester, Pneumonia
+Pediatrics, 33, Ava Williams, Pneumonia
+Therapy, 54, Henry Miller, Asthma
+Pediatrics, 7, Noah Brown, Pneumonia
+Neurology, 7, Violet Johnson, Diabetes
+Surgery, 72, Emma Smith, Flu
+Cardiology, 2, Elijah Martinez, Diabetes
+Neurology, 18, Violet Doe, Heart Failure
+Pediatrics, 49, Liam Davis, Asthma
+Therapy, 67, Henry Smith, Pneumonia
+Surgery, 27, Liam Garcia, Diabetes
+Pediatrics, 49, Henry Morgan, Flu
+Therapy, 60, Violet Smith, Asthma
+Neurology, 8, Liam Jones, Flu
+Surgery, 58, Liam Johnson, Asthma
+Neurology, 25, Jack Smith, Asthma
+Surgery, 68, Olivia Johnson, Flu
+Pediatrics, 85, Sophia Smith, Diabetes
+Therapy, 61, Henry Rodriguez, Diabetes
+Pediatrics, 38, Henry Martinez, Pneumonia
+Pediatrics, 64, Anthony Brown, Flu
+Surgery, 59, Violet Miller, Pneumonia
+Cardiology, 41, Henry Johnson, Pneumonia
+Neurology, 52, Dean Davis, Diabetes
+Therapy, 62, James Winchester, Pneumonia
+Surgery, 93, Violet Davis, Pneumonia
+Surgery, 54, Liam Davis, Diabetes
+Cardiology, 10, Emma Rodriguez, Diabetes
+Cardiology, 24, Violet Garcia, Diabetes
+Surgery, 34, Sophia Jones, Heart Failure
+Pediatrics, 75, Charlotte Doe, Flu
+Cardiology, 2, Dean Brown, Heart Failure
+Cardiology, 29, Olivia Garcia, Diabetes
+Pediatrics, 66, Dean Miller, Flu
+Cardiology, 74, Liam Brown, Heart Failure
+Pediatrics, 97, Anthony Davis, Asthma
+Surgery, 69, Dean Rodriguez, Pneumonia
+Pediatrics, 68, Violet Doe, Flu
+Cardiology, 11, Jane Johnson, Asthma
+Cardiology, 49, Emma Garcia, Pneumonia
+Surgery, 44, Ava Jones, Pneumonia
+Neurology, 95, Charlotte Brown, Asthma
+Therapy, 91, Noah Smith, Asthma
+Cardiology, 74, Anthony Davis, Heart Failure
+Therapy, 64, Violet Rodriguez, Pneumonia
+Pediatrics, 38, Jane Johnson, Heart Failure
+Pediatrics, 85, Henry Jones, Asthma
+Neurology, 97, Dean Morgan, Heart Failure
+Pediatrics, 36, Emma Williams, Pneumonia
+Neurology, 24, Henry Smith, Heart Failure
+Neurology, 71, Dean Johnson, Asthma
+Surgery, 74, Jane Jones, Pneumonia
+Surgery, 56, Emma Smith, Diabetes
+Therapy, 20, Emma Morgan, Flu
+Neurology, 78, Sophia Morgan, Diabetes
+Pediatrics, 51, Sam Smith, Diabetes
+Neurology, 20, Jack Smith, Diabetes
+Cardiology, 30, Charlotte Miller, Diabetes
+Therapy, 6, Olivia Johnson, Asthma
+Neurology, 43, Sophia Brown, Heart Failure
+Therapy, 74, Jack Brown, Asthma
+Surgery, 19, Sam Martinez, Heart Failure
+Therapy, 63, Ava Johnson, Diabetes

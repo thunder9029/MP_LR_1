@@ -1,0 +1,5 @@
+Therapy, 53, Ava Winchester, Flu
+Therapy, 47, Dean Brown, Heart Failure
+Pediatrics, 59, Jack Morgan, Pneumonia
+Pediatrics, 19, Dean Davis, Pneumonia
+Therapy, 15, Olivia Morgan, Heart Failure
