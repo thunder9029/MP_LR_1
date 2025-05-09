@@ -15,6 +15,7 @@ $(TARGET): $(SRCS) $(HEADERS)
 # Правило для очистки
 clean:
 	rm -f $(TARGET)
+	rm -rf output
 #	rm -f *.o
 
 .PHONY: all clean
