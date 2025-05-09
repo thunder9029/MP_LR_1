@@ -6,6 +6,7 @@
 #include "sorter.h"
 
 #include <algorithm>
+#include <filesystem>
 #include <string>
 #include <vector>
 
@@ -19,6 +20,14 @@ using SortFunc = void(*)(Patient a[], long);
 /// @param n указатель на массив размерностей
 void
 quadSortWrap(std::vector<double> &times, SortFunc sortFunc, long n[]) {
+  std::filesystem::path currentPath = std::filesystem::current_path();
+  std::string dir = currentPath.string() + "/output/quad/";
+  std::error_code ec;
+  std::filesystem::create_directories(dir, ec);
+  if (ec) {
+      std::cerr << "Не удалось создать директорию: " << ec.message() << std::endl;
+      return;
+  }
   for (size_t i {0}; i < 10; ++i) {
     Patient patients[n[i]];
 
@@ -30,6 +39,8 @@ quadSortWrap(std::vector<double> &times, SortFunc sortFunc, long n[]) {
     sortFunc(patients, n[i]);
     clock_t end = clock();
     times.push_back((double)(end - start) / CLOCKS_PER_SEC);
+    std::string out = dir + std::to_string(n[i]) + ".txt";
+    writePatientsToFile(out, patients, n[i]);
   }
 }
 
@@ -38,6 +49,14 @@ quadSortWrap(std::vector<double> &times, SortFunc sortFunc, long n[]) {
 /// @param n указатель на массив размерностей
 void
 mergeSortWrap(std::vector<double> &times, long n[]) {
+  std::filesystem::path currentPath = std::filesystem::current_path();
+  std::string dir = currentPath.string() + "/output/merge/";
+  std::error_code ec;
+  std::filesystem::create_directories(dir, ec);
+  if (ec) {
+      std::cerr << "Не удалось создать директорию: " << ec.message() << std::endl;
+      return;
+  }
   for (size_t i {0}; i < 10; ++i) {
     Patient patients[n[i]];
 
@@ -49,6 +68,8 @@ mergeSortWrap(std::vector<double> &times, long n[]) {
     sorter::mergeSort(patients, 0, n[i]-1);
     clock_t end = clock();
     times.push_back((double)(end - start) / CLOCKS_PER_SEC);
+    std::string out = dir + std::to_string(n[i]) + ".txt";
+    writePatientsToFile(out, patients, n[i]);
   }
 }
 
@@ -57,6 +78,14 @@ mergeSortWrap(std::vector<double> &times, long n[]) {
 /// @param n указатель на массив размерностей
 void
 stdSortWrap(std::vector<double> &times, long n[]) {
+  std::filesystem::path currentPath = std::filesystem::current_path();
+  std::string dir = currentPath.string() + "/output/sort/";
+  std::error_code ec;
+  std::filesystem::create_directories(dir, ec);
+  if (ec) {
+      std::cerr << "Не удалось создать директорию: " << ec.message() << std::endl;
+      return;
+  }
   for (size_t i {0}; i < 10; ++i) {
     Patient patients[n[i]];
 
@@ -71,6 +100,8 @@ stdSortWrap(std::vector<double> &times, long n[]) {
               });
     clock_t end = clock();
     times.push_back((double)(end - start) / CLOCKS_PER_SEC);
+    std::string out = dir + std::to_string(n[i]) + ".txt";
+    writePatientsToFile(out, patients, n[i]);
   }
 }
 
@@ -87,22 +118,5 @@ int main() {
   mergeSortWrap(mergeSortTimes, n);
   stdSortWrap(sortTimes, n);
 
-  std::ofstream fout("output.txt");
-  std::string sorts[] = {"bubble", "insert", "merge", "std::sort"};
-  std::vector<std::vector<double>> sortTimings = {bubbleSortTimes,
-                                                  insertSortTimes,
-                                                  mergeSortTimes,
-                                                  sortTimes};
-  for (size_t i {0}; i < 4; ++i) {
-    fout << sorts[i] << " = [";
-    for (size_t j {0}; j < 10; ++j) {
-      if (j != 9) {
-        fout << sortTimings[i][j] << ", ";
-      } else {
-        fout << sortTimings[i][j] << "]\n";
-      }
-    }
-  }
-  fout.close();
   return 0;
 }
