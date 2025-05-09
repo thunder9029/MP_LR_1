@@ -1,12 +1,18 @@
+/**
+ * \file
+ * \authors Штренев В.С., СКБ221
+ */
+
 #ifndef SORTER_H
 #define SORTER_H
 
 #include "patient.h"
 
-#include <vector>
-
 namespace sorter {
-/// @brief функция сортировки пузырьком
+
+/// @brief функция сортировки массива пузырьком
+/// @param a указатель на массив
+/// @param size размер массива
 void bubleSort(Patient a[], long size) {
   bool swapped;
 
@@ -24,7 +30,9 @@ void bubleSort(Patient a[], long size) {
   }
 };
 
-/// @brief функция для сортировки простыми вставками
+/// @brief функция сортировки массива простыми вставками
+/// @param a указатель на массив
+/// @param size размер массива
 void insertSort(Patient a[], long size) {
   long j;
   for (long i = 0; i < size; i++) {
@@ -43,10 +51,10 @@ void insertSort(Patient a[], long size) {
 /// @param mid средняя граница для сортировки
 /// @param high верхняя граница для сортировки
 void merge(Patient a[], long low, long mid, long high) {
-  // Variables declaration.
+  // Определение переменных.
   Patient *b = new Patient[high+1-low];
   long h = low, i = 0, j = mid+1, k;
-  // Merges the two array's into b[] until the first one is finish
+  // Слияние двух массивов в массив b до тех пор, пока один не закончится
   while ((h<=mid) && (j<=high)) {
     if (a[h]<=a[j]) {
       b[i] = a[h];
@@ -57,7 +65,7 @@ void merge(Patient a[], long low, long mid, long high) {
     }
     i++;
   }
-  // Completes the array filling in it the missing values
+  // Заполнение массива оставшимися элементами
   if (h>mid) {
     for (k=j;k<=high;k++) {
       b[i] = a[k];
@@ -69,7 +77,7 @@ void merge(Patient a[], long low, long mid, long high) {
       i++;
     }
   }
-  // Prints into the original array
+  // Внесение сортированного массива в исходный
   for (k=0;k<=high-low;k++) {
     a[k+low] = b[k];
   }
@@ -81,7 +89,6 @@ void merge(Patient a[], long low, long mid, long high) {
 /// @param low нижняя граница диапазона сортировки
 /// @param high верхняя граница диапазона сортировки
 void mergeSort(Patient a[], long low, long high) {
-  ///TODO: mergeSort
   if (low < high) {
     long mid = (high + low)/2;
     mergeSort(a, low, mid);

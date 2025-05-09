@@ -1,3 +1,8 @@
+/**
+ * \file
+ * \authors Штренев В.С., СКБ221
+ */
+
 #include "sorter.h"
 
 #include <algorithm>
@@ -17,7 +22,8 @@ quadSortWrap(std::vector<double> &times, SortFunc sortFunc, long n[]) {
   for (size_t i {0}; i < 10; ++i) {
     Patient patients[n[i]];
 
-    std::string c = "/home/thunder9029/study/MP/data/" + std::to_string(n[i]) + ".txt";
+    std::string c = "/home/thunder9029/study/MP/data/" + std::to_string(n[i])
+                  + ".txt";
 
     readPatientsFromFile(c, patients, n[i]);
     clock_t start = clock();
@@ -35,7 +41,8 @@ mergeSortWrap(std::vector<double> &times, long n[]) {
   for (size_t i {0}; i < 10; ++i) {
     Patient patients[n[i]];
 
-    std::string c = "/home/thunder9029/study/MP/data/" + std::to_string(n[i]) + ".txt";
+    std::string c = "/home/thunder9029/study/MP/data/" + std::to_string(n[i])
+                  + ".txt";
 
     readPatientsFromFile(c, patients, n[i]);
     clock_t start = clock();
@@ -53,7 +60,8 @@ stdSortWrap(std::vector<double> &times, long n[]) {
   for (size_t i {0}; i < 10; ++i) {
     Patient patients[n[i]];
 
-    std::string c = "/home/thunder9029/study/MP/data/" + std::to_string(n[i]) + ".txt";
+    std::string c = "/home/thunder9029/study/MP/data/" + std::to_string(n[i])
+                  + ".txt";
 
     readPatientsFromFile(c, patients, n[i]);
     clock_t start = clock();

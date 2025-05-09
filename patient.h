@@ -1,3 +1,8 @@
+/**
+ * \file
+ * \authors Штренев В.С., СКБ221
+ */
+
 #ifndef PATIENT_H
 #define PATIENT_H
 
@@ -8,10 +13,10 @@
 
 /// @brief Структура Пациент
 struct Patient final {
-  std::string department;   // Отделение
-  size_t ward;              // Номер палаты
-  std::string diagnosis;    // Диагноз пациента
-  std::string fullname;     // ФИО пациента
+  std::string department;   ///< Отделение
+  size_t ward;              ///< Номер палаты
+  std::string diagnosis;    ///< Диагноз пациента
+  std::string fullname;     ///< ФИО пациента
 
   /// @brief перегруженный оператор сравнения <
   /// (сравнение по полям – отделение, номер палаты, ФИО)
