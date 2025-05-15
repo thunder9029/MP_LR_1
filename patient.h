@@ -156,7 +156,7 @@ void readPatientsFromFile(const std::string& filename, Patient a[], long n) {
 /// @param filename содержит информацию о пациентах больницы
 /// @param a массив для записи пациентов
 /// @param n размер массива пациентов для записи
-void writePatientsToFile(const std::string& filename, Patient a[], size_t n) {
+void writePatientsToFile(const std::string& filename, Patient a[], long n) {
   std::ofstream file(filename);
 
   if (!file.is_open()) {
@@ -164,7 +164,7 @@ void writePatientsToFile(const std::string& filename, Patient a[], size_t n) {
     return;
   }
 
-  for (size_t i {0}; i < n; ++i) {
+  for (long i {0}; i < n; ++i) {
     file << a[i].department << ", "
          << a[i].ward << ", "
          << a[i].fullname << ", "

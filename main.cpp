@@ -28,7 +28,7 @@ quadSortWrap(std::vector<double> &times, SortFunc sortFunc, long n[]) {
       std::cerr << "Не удалось создать директорию: " << ec.message() << std::endl;
       return;
   }
-  for (size_t i {0}; i < 10; ++i) {
+  for (long i {0}; i < 10; ++i) {
     Patient patients[n[i]];
 
     std::string c = "/home/thunder9029/study/MP/data/" + std::to_string(n[i])
@@ -57,7 +57,7 @@ mergeSortWrap(std::vector<double> &times, long n[]) {
       std::cerr << "Не удалось создать директорию: " << ec.message() << std::endl;
       return;
   }
-  for (size_t i {0}; i < 10; ++i) {
+  for (long i {0}; i < 10; ++i) {
     Patient patients[n[i]];
 
     std::string c = "/home/thunder9029/study/MP/data/" + std::to_string(n[i])
@@ -86,7 +86,7 @@ stdSortWrap(std::vector<double> &times, long n[]) {
       std::cerr << "Не удалось создать директорию: " << ec.message() << std::endl;
       return;
   }
-  for (size_t i {0}; i < 10; ++i) {
+  for (long i {0}; i < 10; ++i) {
     Patient patients[n[i]];
 
     std::string c = "/home/thunder9029/study/MP/data/" + std::to_string(n[i])
