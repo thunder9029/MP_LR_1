@@ -31,7 +31,7 @@ quadSortWrap(std::vector<double> &times, SortFunc sortFunc, long n[]) {
   for (long i {0}; i < 10; ++i) {
     Patient patients[n[i]];
 
-    std::string c = "/home/thunder9029/study/MP/data/" + std::to_string(n[i])
+    std::string c = currentPath.string() + "/data/" + std::to_string(n[i])
                   + ".txt";
 
     readPatientsFromFile(c, patients, n[i]);
@@ -60,7 +60,7 @@ mergeSortWrap(std::vector<double> &times, long n[]) {
   for (long i {0}; i < 10; ++i) {
     Patient patients[n[i]];
 
-    std::string c = "/home/thunder9029/study/MP/data/" + std::to_string(n[i])
+    std::string c = currentPath.string() + "/data/" + std::to_string(n[i])
                   + ".txt";
 
     readPatientsFromFile(c, patients, n[i]);
@@ -89,7 +89,7 @@ stdSortWrap(std::vector<double> &times, long n[]) {
   for (long i {0}; i < 10; ++i) {
     Patient patients[n[i]];
 
-    std::string c = "/home/thunder9029/study/MP/data/" + std::to_string(n[i])
+    std::string c = currentPath.string() + "/data/" + std::to_string(n[i])
                   + ".txt";
 
     readPatientsFromFile(c, patients, n[i]);
