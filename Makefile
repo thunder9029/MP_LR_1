@@ -16,6 +16,7 @@ $(TARGET): $(SRCS) $(HEADERS)
 clean:
 	rm -f $(TARGET)
 	rm -rf output
+	rm -f output.py
 #	rm -f *.o
 
 .PHONY: all clean

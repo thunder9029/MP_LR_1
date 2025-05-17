@@ -86,8 +86,8 @@ std::string generateRandomDiagnosis() {
 /// @brief генерация информации о пациентах больницы
 /// @param patients массив пациентов для генерации
 /// @param n размер массива пациентов
-void generatePatients(Patient patients[], long n) {
-  for (long i = 0; i < n; ++i) {
+void generatePatients(Patient patients[], unsigned long n) {
+  for (unsigned long i {0}; i < n; ++i) {
     Patient patient;
     patient.fullname = generateRandomName();
     patient.department = generateRandomDepartment();
@@ -101,12 +101,9 @@ void generatePatients(Patient patients[], long n) {
 /// @brief вывод массива пациентов
 /// @param patients массив пациентов
 /// @param n размер массива пациентов
-void printPatients(Patient patients[], long n) {
-  for (int i = 0; i < n; ++i) {
-    std::cout << patients[i].department << ", "
-              << patients[i].ward << ", "
-              << patients[i].fullname << ", "
-              << patients[i].diagnosis << std::endl;
+void printPatients(Patient patients[], unsigned long n) {
+  for (unsigned long i {0}; i < n; ++i) {
+    std::cout << patients[i] << std::endl;
   }
 }
 
@@ -114,7 +111,9 @@ void printPatients(Patient patients[], long n) {
 /// @param filename содержит информацию о пациентах больницы
 /// @param a массив для записи пациентов
 /// @param n размер массива пациентов для записи
-void readPatientsFromFile(const std::string& filename, Patient a[], long n) {
+void readPatientsFromFile(const std::string& filename,
+                          Patient a[],
+                          unsigned long n) {
   std::ifstream file(filename);
 
   if (!file.is_open()) {
@@ -123,7 +122,7 @@ void readPatientsFromFile(const std::string& filename, Patient a[], long n) {
   }
 
   std::string line;
-  long count = 0;
+  unsigned long count {0};
 
   while (count < n && std::getline(file, line)) {
     std::istringstream iss(line);
@@ -165,10 +164,7 @@ void writePatientsToFile(const std::string& filename, Patient a[], long n) {
   }
 
   for (long i {0}; i < n; ++i) {
-    file << a[i].department << ", "
-         << a[i].ward << ", "
-         << a[i].fullname << ", "
-         << a[i].diagnosis << std::endl;
+    file << a[i] << std::endl;
   }
 
   file.close();
